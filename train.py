@@ -3,7 +3,6 @@ import cv2
 import numpy as np
 import cPickle
 from os import path, walk
-from assn4 import createTrainSaveANN
 import copy
 
 #tensorflow dependencies
@@ -79,6 +78,15 @@ def loadFilesDir(dir_fp, ftype='image'):
             loaded_files.append(loadImg(file_path))
     return loaded_files
 
+def loadFilesList(dir_path, file_paths, ftype='image'):
+    loaded_files = []
+    if ftype == 'image':
+        #load each file in 'file_paths' as an image
+        for file_path in file_paths:
+            print '--------------',dir_path+file_path
+            loaded_files.append(loadImg(dir_path+file_path))
+    return loaded_files
+
 def massageForCNN(data, dims=(320,120)):#dims is the dimensions of the image (raw images are 320x120 px; processed images are 320x240 px)
     print 'datalen:',len(data)
     result = np.ndarray(shape=(len(data),dims[0],dims[1],1))
@@ -103,77 +111,49 @@ def trainAndSaveCNN(trainX,trainY,testX,testY,cnn_type='2d'):
 
     return MODEL
 
-if __name__ == '__main__':
+def startTraining(data):
     IMAGE_TRAIN = True
 
-    TRAIN_IMG_CNN = True
-
-    TRAIN_AUD_CNN = True
-
+    TRAIN_IMG_CNN = False
 
     if IMAGE_TRAIN:
         #full img dataset
-        bee_train_fp = './BEE2Set/bee_train'
-        bee_test_fp = './BEE2Set/bee_test'
-        no_bee_train_fp = './BEE2Set/no_bee_train'
-        no_bee_test_fp = './BEE2Set/no_bee_test'
+        # raw_fp = '../PI_CAR_DATA/rawImages/'
+        # proc_fp = '../PI_CAR_DATA/processedImages/'
 
         #partial img dataset
-        # bee_train_fp = '../BEE2Set/bee_train'
-        # bee_test_fp = '../BEE2Set/bee_test'
-        # no_bee_train_fp = '../BEE2Set/no_bee_train'
-        # no_bee_test_fp = '../BEE2Set/no_bee_test'
+        raw_fp = './PI_CAR_DATA/rawImages/'
+        proc_fp = './PI_CAR_DATA/processedImages/'
 
-        # load bee image training data
-        bee_imgs = loadFilesDir(bee_train_fp, 'image')
-        no_bee_imgs = loadFilesDir(no_bee_train_fp, 'image')
+        image_names = [item['Image File'] for item in data]
+        print image_names
 
-        # load bee image test data
-        bee_imgs_t = loadFilesDir(bee_test_fp, 'image')
-        no_bee_imgs_t = loadFilesDir(no_bee_test_fp, 'image')
-        print 'Image Data Loaded'
+        raw_img_fp_arr = [raw_fp+img_name for img_name in image_names]
+        proc_img_fp_arr = [proc_fp+img_name for img_name in image_names]
 
-        if TRAIN_IMG_ANN:
-            print '#### Image ANN ####'
-            ann_img_train_d_fp = './data/ann_img_train_d.pck'
-            ann_img_valid_d_fp = './data/ann_img_valid_d.pck'
-            ann_img_test_d_fp = './data/ann_img_test_d.pck'
+        print '#####################################'
 
-            #massage data for use with ANN
-            ann_bee_imgs, ann_no_bee_imgs = massageForANN(bee_imgs,no_bee_imgs)
+        print 'raw',raw_img_fp_arr[:3]
+        print '---------------------'
+        print 'proc',proc_img_fp_arr[:3]
 
-            train_input = ann_bee_imgs + ann_no_bee_imgs
+        # # load bee image training data
+        # bee_imgs = loadFilesList(dir_path, file_list)
+        # no_bee_imgs = loadFilesList(dir_path, file_list)
 
-            train_target = np.concatenate((np.array([np.array([[1],[0]])]*len(bee_imgs)),np.array([np.array([[0],[1]])]*len(no_bee_imgs))))
-
-            ann_img_d = zip(train_input,train_target) 
-            ann_img_train_d = ann_img_d[0:(len(ann_img_d)*3/4)]
-            ann_img_valid_d = ann_img_d[(len(ann_img_d)*3/4):]
-            
-            # save training data
-            save(ann_img_train_d,ann_img_train_d_fp)
-            save(ann_img_valid_d,ann_img_valid_d_fp)
-
-            #massage validation data
-            ann_bee_imgs_t, ann_no_bee_imgs_t = massageForANN(bee_imgs_t, no_bee_imgs_t)
-
-            # massage validation data to work with ann
-            test_input = ann_bee_imgs_t + ann_no_bee_imgs_t
-            
-            ann_img_test_d = zip(test_input,[0]*len(bee_imgs_t)+[1]*len(no_bee_imgs_t))
-            # save validation data
-            save(ann_img_test_d,ann_img_test_d_fp)
-
-            print "Starting Training ANN..."
-            img_ann_data = createTrainSaveANN('./ImageANN.pck',ann_img_train_d, ann_img_test_d, 1024, 2)
-            print img_ann_data
+        # # load bee image test data
+        # bee_imgs_t = loadFilesDir(bee_test_fp, 'image')
+        # no_bee_imgs_t = loadFilesDir(no_bee_test_fp, 'image')
+        # print 'Image Data Loaded'
 
         if TRAIN_IMG_CNN:
             print '#### Image CNN ####'
             img_cnn_trainX_fp = './data/img_cnn_trainx.pck'
             img_cnn_trainY_fp = './data/img_cnn_trainy.pck'
+
             img_cnn_testX_fp = './data/img_cnn_testx.pck'
             img_cnn_testY_fp = './data/img_cnn_testy.pck'
+            
             img_cnn_validX_fp = './data/img_cnn_validx.pck'
             img_cnn_validY_fp = './data/img_cnn_validy.pck'
 
@@ -217,3 +197,13 @@ if __name__ == '__main__':
             #train convNet
             model = trainAndSaveCNN(img_cnn_trainX,img_cnn_trainY,img_cnn_testX,img_cnn_testY)
             print model.predict(img_cnn_testX[0].reshape(-1,32,32,1))
+
+if __name__ == '__main__':
+    # startTraining()
+
+    # file_list = ['image_2018_10_25_18:44:37.png','image_2018_10_25_18:44:38.png','image_2018_10_25_18:44:39.png']
+    # dir_path = './PI_CAR_DATA/rawImages/'
+
+    # print loadFilesList(dir_path, file_list)
+
+    pass
