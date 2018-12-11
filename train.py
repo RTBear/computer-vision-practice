@@ -87,8 +87,7 @@ def loadFilesList(dir_path, file_paths, ftype='image'):
             loaded_files.append(loadImg(dir_path+file_path))
     return loaded_files
 
-def massageForCNN(data, dims=(320,120)):#dims is the dimensions of the image (raw images are 320x120 px; processed images are 320x240 px)
-    print 'datalen:',len(data)
+def massageForCNN(data, dims=(120,320)):#dims is the dimensions of the image (raw images are 320x120 px; processed images are 320x240 px)
     result = np.ndarray(shape=(len(data),dims[0],dims[1],1))
     for i, outer in enumerate(data):
         for j, inner in enumerate(outer):
@@ -114,7 +113,7 @@ def trainAndSaveCNN(trainX,trainY,testX,testY,cnn_type='2d'):
 def startTraining(data):
     IMAGE_TRAIN = True
 
-    TRAIN_IMG_CNN = False
+    TRAIN_IMG_CNN = True
 
     if IMAGE_TRAIN:
         #full img dataset
@@ -128,14 +127,18 @@ def startTraining(data):
         image_names = [item['Image File'] for item in data]
         print image_names
 
-        raw_img_fp_arr = [raw_fp+img_name for img_name in image_names]
-        proc_img_fp_arr = [proc_fp+img_name for img_name in image_names]
+        raw_img_fp_arr = [img_name for img_name in image_names]
+        proc_img_fp_arr = [img_name for img_name in image_names]
 
         print '#####################################'
 
         print 'raw',raw_img_fp_arr[:3]
         print '---------------------'
         print 'proc',proc_img_fp_arr[:3]
+
+        # load raw img training data
+        raw_imgs = loadFilesList(raw_fp, raw_img_fp_arr)
+        proc_imgs = loadFilesList(raw_fp, proc_img_fp_arr)
 
         # # load bee image training data
         # bee_imgs = loadFilesList(dir_path, file_list)
@@ -144,7 +147,12 @@ def startTraining(data):
         # # load bee image test data
         # bee_imgs_t = loadFilesDir(bee_test_fp, 'image')
         # no_bee_imgs_t = loadFilesDir(no_bee_test_fp, 'image')
-        # print 'Image Data Loaded'
+        print raw_imgs[:2]
+        print 'Image Data Loaded'
+        # print len(raw_imgs[0])
+        # print len(raw_imgs[0][0])
+        raw_img_X = massageForCNN(raw_imgs[:2])
+        print raw_img_X
 
         if TRAIN_IMG_CNN:
             print '#### Image CNN ####'
@@ -161,6 +169,8 @@ def startTraining(data):
             # massage training data for convNet
             #train x is input
             b_img_X = massageForCNN(bee_imgs)
+
+
             #train y is expected output for trainX
             b_img_Y = [[1, 0]]*len(bee_imgs)
 
