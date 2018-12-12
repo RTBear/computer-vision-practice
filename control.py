@@ -19,10 +19,11 @@ def process_data_commands(data):
     return data
 
 if __name__ == '__main__':
-    data = lc.readCSV('PI_CAR_DATA/PI_Car_Runs.csv')
+    # data = lc.readCSV('PI_CAR_DATA/PI_Car_Runs.csv')
+    data = lc.readCSV('../PI_CAR_DATA/PI_Car_Runs.csv')
     data = process_data_commands(data)
 
-    print data
+    # print data
     print '--------'
     print len(data)
     print '--------'
