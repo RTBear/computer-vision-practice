@@ -1,0 +1,672 @@
+Image File,Commands,X_Intercept_Left,X_Intercept_Right,Slope_Left,Slope_Right
+image_2018_10_25_18:44:37.png,"right pressed,right released,right pressed,right released,up pressed",113,247,-6.72621518170079,3.39571316921136
+image_2018_10_25_18:44:38.png,"up released,up pressed,up released,up pressed,up released",109,246,-5.42695466991177,3.39565769240894
+image_2018_10_25_18:44:39.png,"up pressed,up released,up pressed,up released,up pressed,up released",106,240,-5.72233843990933,3.50056984888229
+image_2018_10_25_18:44:40.png,"up pressed,up released,up pressed,up released,up pressed",106,241,-5.42004612140246,3.50056984888229
+image_2018_10_25_18:44:41.png,"up released,up pressed,up released,up pressed,up released",110,237,-6.00739217429969,3.61386847195358
+image_2018_10_25_18:44:42.png,"up pressed,up released,up pressed,up released,up pressed,up released",106,237,-5.42004612140246,3.75087773648911
+image_2018_10_25_18:44:43.png,"up pressed,up released,up pressed,up released,up pressed,up released",104,238,-5.18277031479429,4.24382896692633
+image_2018_10_25_18:44:44.png,"up pressed,up released,right pressed,right released,right pressed",93,238,-4.26313144361081,4.3922590629632
+image_2018_10_25_18:44:45.png,"right released,right pressed,right released,up pressed,up released,up pressed",93,233,-4.03003429499765,4.55935690015153
+image_2018_10_25_18:44:46.png,"up released,up pressed,up released,up pressed,up released,up pressed",103,238,-4.53073364888124,4.03206961068766
+image_2018_10_25_18:44:47.png,"up released,up pressed,up released,up pressed,up released,up pressed",234,241,-1,3.74936973450924
+image_2018_10_25_18:44:48.png,"up released,up pressed,up released,right pressed,right released",111,242,-5.18358749726648,3.98773967590973
+image_2018_10_25_18:44:49.png,"right pressed,right released,right pressed,right released,up pressed,up released",104,240,-5.0682517348284,4.2427664141748
+image_2018_10_25_18:44:50.png,"up pressed,up released,up pressed,up released,up pressed,up released",102,231,-4.52357313440846,4.55883822795236
+image_2018_10_25_18:44:51.png,"up pressed,up released,up pressed,up released,up pressed,up released",96,230,-4.36370326024595,4.73305406886124
+image_2018_10_25_18:44:52.png,"up pressed,up released,up pressed,up released,up pressed,up released",96,234,-4.01656314699793,4.55667078601498
+image_2018_10_25_18:44:53.png,"up pressed,up released,up pressed,up released,right pressed",231,239,-1,4.02934416387274
+image_2018_10_25_18:44:54.png,"right released,up pressed,up released,up pressed,up released,up pressed",105,239,-4.52952882960413,4.02934416387274
+image_2018_10_25_18:44:55.png,"up released,up pressed,up released,right pressed,right released,right pressed",111,240,-5.16578947368421,4.02869941854714
+image_2018_10_25_18:44:56.png,"right released,right pressed,right released,up pressed,up released",108,242,-4.93831642358909,3.74590189719691
+image_2018_10_25_18:44:57.png,"up pressed,up released,up pressed,up released,up pressed,up released",114,248,-5.41875473987563,3.62927545078335
+image_2018_10_25_18:44:58.png,"up pressed,up released,up pressed,up released,up pressed,up released",117,251,-5.71473958164232,3.5048545569783
+image_2018_10_25_18:44:59.png,"right pressed,right released,right pressed,right released,up pressed,up released",130,264,-7.62492628847742,3.08699661960413
+image_2018_10_25_18:45:00.png,"up pressed,up released,up pressed,up released,up pressed",131,275,-8.25513714058168,2.83541576208197
+image_2018_10_25_18:45:01.png,"up released,up pressed,up released,up pressed,up released,right pressed",147,287,-12.8426929392447,2.47990313402976
+image_2018_10_25_18:45:02.png,"right released,right pressed,right released,right pressed,right released",158,292,-34.8793650793651,2.36018866364758
+image_2018_10_25_18:45:03.png,"right pressed,right released,right pressed,right released",145,282,-14.9038587848933,2.54816270252545
+image_2018_10_25_18:45:04.png,"right pressed,right released,right pressed,right released",103,235,-5.72349531647584,3.62914009121942
+image_2018_10_25_18:45:05.png,"up pressed,up released,up pressed,up released,up pressed,up released",77,212,-3.87995296837003,4.97116393714204
+image_2018_10_25_18:45:07.png,"up pressed,up released,up pressed,up released,up pressed,up released",172,182,-1,10.6286554687763
+image_2018_10_25_18:45:09.png,"up released,left pressed,left released,up pressed,up released",154,157,-1,43.0354037267081
+image_2018_10_25_18:45:23.png,"down pressed,down released",12,146,-18.4860223350265,-1
+image_2018_10_25_18:45:25.png,"down pressed,down released,down pressed,down released,down pressed",28,160,-2.4166133162612,35.0267770876467
+image_2018_10_25_18:45:27.png,"down pressed,down released,down pressed,down released",75,207,-4.93153717231129,4.20023656462173
+image_2018_10_25_18:45:29.png,"right pressed,right released,right pressed",109,248,-14.8983032293377,2.54837260856906
+image_2018_10_25_18:45:31.png,"down pressed,down released,down pressed",126,268,-43.0354037267081,2.26541013847781
+image_2018_10_25_18:45:32.png,"down released,down pressed,down released,down pressed,down released",162,307,-1,4.40479533483995
+image_2018_10_25_18:45:34.png,"right pressed,right released",162,313,-1,4.76553562569313
+image_2018_10_25_18:45:36.png,"right pressed,right released",146,289,-1,8.19904476192507
+image_2018_10_25_18:45:37.png,"right pressed,right released",147,289,-1,8.52374175681698
+image_2018_10_25_18:45:40.png,"down pressed,down released,down pressed,down released",148,294,-1,7.9004357143479
+image_2018_10_25_18:45:41.png,"down pressed,down released,left pressed,left released",178,324,-1,3.23204228053528
+image_2018_10_25_18:45:42.png,"left pressed,left released",158,301,-1,6.53058990384828
+image_2018_10_25_18:45:43.png,"left pressed,left released",153,307,-1,10.4598967712294
+image_2018_10_25_18:45:45.png,"down pressed,down released",152,309,-1,9.43194608083118
+image_2018_10_25_18:45:46.png,"down pressed,down released,down pressed,down released",171,318,-1,3.89409135521626
+image_2018_10_25_18:45:47.png,"down pressed,down released",174,321,-1,3.50704625574575
+image_2018_10_25_18:45:48.png,"down pressed,down released",181,332,-1,2.95256639065232
+image_2018_10_25_18:45:49.png,"right pressed,right released",169,320,-1,3.68823146550391
+image_2018_10_25_18:45:52.png,"right pressed,right released,right pressed",159,304,-1,5.0965019700902
+image_2018_10_25_18:45:53.png,"right released,right pressed,right released",139,276,-1,13.8329921807867
+image_2018_10_25_18:45:58.png,"down pressed,down released",167,176,-1,7.78777582831104
+image_2018_10_25_18:46:05.png,right pressed,167,318,-1,4.00832806267715
+image_2018_10_25_18:46:14.png,"down released,down pressed,down released",180,326,-1,3.37369685687328
+image_2018_10_25_18:47:00.png,"right released,right pressed,right released,right pressed,right released",179,332,-1,2.82864367589662
+image_2018_10_25_18:47:02.png,"up pressed,up released",143,290,-1,4.64958946793692
+image_2018_10_25_18:47:03.png,"up pressed,up released",137,282,-1,5.14472412056675
+image_2018_10_25_18:47:04.png,"left pressed,left released,up pressed,up released",117,262,-57.0857142857143,12.3361790335362
+image_2018_10_25_18:47:16.png,"down pressed,down released,down pressed",166,310,-1,3.89399639892492
+image_2018_10_25_18:47:17.png,"down released,down pressed,down released",190,337,-1,2.69941120972217
+image_2018_10_25_18:47:34.png,"down released,down pressed,down released,down pressed,down released,down pressed,down released",285,303,-1,1.32944468295722
+image_2018_10_25_18:48:10.png,"up pressed,up released,up pressed,up released,up pressed",89,224,-2.82866313774074,9.69872327151194
+image_2018_10_25_18:48:11.png,"up released,up pressed,up released,up pressed,up released",96,238,-3.09364032194221,6.35914856750892
+image_2018_10_25_18:48:12.png,"up pressed,up released,up pressed,up released,up pressed,up released",118,254,-4.17754660690654,4.73260037156855
+image_2018_10_25_18:48:13.png,"up pressed,up released,right pressed,right released,up pressed",133,268,-5.1496062992126,3.74590189719691
+image_2018_10_25_18:48:14.png,"up released,up pressed,up released,up pressed,up released",141,288,-5.99212786918452,3.0048540044161
+image_2018_10_25_18:48:15.png,"up pressed,up released,up pressed,up released,right pressed",170,175,-21.3857142857143,-1
+image_2018_10_25_18:48:16.png,"right released,right pressed,right released",182,324,-57.1142857142857,13.1049623167605
+image_2018_10_25_18:48:17.png,"right pressed,right released,right pressed,right released,right pressed",189,324,-1,15.6753585808801
+image_2018_10_25_18:48:18.png,"right released,right pressed,right released,right pressed",179,311,-1,13.1771919890564
+image_2018_10_25_18:48:19.png,"right released,up pressed,up released,up pressed,up released",162,299,-42.8142857142857,13.2635298552295
+image_2018_10_25_18:48:20.png,"up pressed,up released,up pressed",157,298,-42.8142857142857,2.30699603585702
+image_2018_10_25_18:48:21.png,"up released,up pressed,up released,up pressed,up released",152,296,-23.9830227743271,2.30653713095666
+image_2018_10_25_18:48:22.png,"up pressed,up released,up pressed,up released",153,301,-34.8793650793651,13.184063568092
+image_2018_10_25_18:48:23.png,"up pressed,up released,up pressed,up released,up pressed,up released",156,169,-42.8142857142857,43.0354037267081
+image_2018_10_25_18:48:24.png,"up pressed,up released,right pressed,right released,up pressed,up released",159,307,-57.0857142857143,13.1047549929785
+image_2018_10_25_18:48:25.png,"up pressed,up released,up pressed,up released,up pressed",150,303,-23.987784679089,10.0177076915792
+image_2018_10_25_18:48:26.png,"up released,up pressed,up released,up pressed,up released",157,304,-57.1142857142857,2.10779530563982
+image_2018_10_25_18:48:27.png,"up pressed,up released,up pressed,up released",152,296,-35.0267770876467,2.2000614148919
+image_2018_10_25_18:48:29.png,"up pressed,up released,up pressed,up released",151,301,-35.0299516908213,2.15277574170649
+image_2018_10_25_18:48:30.png,"left pressed,left released,up pressed,up released,up pressed,up released",154,296,-43.0354037267081,15.8896556616951
+image_2018_10_25_18:48:31.png,"up pressed,up released,up pressed,up released",143,166,-34.2784072249589,43.0281573498965
+image_2018_10_25_18:48:32.png,"up pressed,up released,up pressed,up released,up pressed,up released,up pressed",145,310,-34.2641215106732,10.4254901597133
+image_2018_10_25_18:48:33.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released",150,298,-33.2904761904762,2.3765420132856
+image_2018_10_25_18:48:34.png,"right pressed,right released",154,293,-34.8793650793651,2.42244786142826
+image_2018_10_25_18:48:35.png,"up pressed,up released,up pressed,up released,up pressed,up released",160,303,-42.8142857142857,11.3948365231935
+image_2018_10_25_18:48:36.png,"up pressed,up released,up pressed,up released,up pressed,up released",166,318,-57.0857142857143,11.2287938118532
+image_2018_10_25_18:48:37.png,"up pressed,up released,up pressed,up released,up pressed,up released",167,322,-57.0857142857143,14.3108928721558
+image_2018_10_25_18:48:39.png,"up pressed,up released,up pressed,up released,up pressed,up released",186,202,-1,9.4601169089315
+image_2018_10_25_18:48:42.png,"up pressed,up released,up pressed,up released",195,202,-1,7.18778461753721
+image_2018_10_25_18:48:44.png,"up pressed,up released,up pressed,up released",192,201,-1,7.76882889377492
+image_2018_10_25_18:48:45.png,"up pressed,up released,up pressed,up released,up pressed,up released",192,338,-1,4.51031782270046
+image_2018_10_25_18:48:46.png,"up pressed,up released,up pressed,up released,up pressed,up released",191,339,-1,4.51005144820808
+image_2018_10_25_18:48:47.png,"up pressed,up released,up pressed,up released,up pressed,up released",191,339,-1,3.71221347794434
+image_2018_10_25_18:48:49.png,"up pressed,up released,up pressed,up released",194,200,-1,8.25650326080025
+image_2018_10_25_18:48:57.png,"up pressed,up released,up pressed,up released",223,233,-1,4.96761237003893
+image_2018_10_25_18:49:02.png,"right pressed,right released,right pressed,right released",186,327,-1,4.18210689759297
+image_2018_10_25_18:49:03.png,"up pressed,up released,up pressed,up released",151,294,-1,16.1602077353403
+image_2018_10_25_18:49:04.png,"up pressed,up released,up pressed,up released,up pressed",143,301,-57.1142857142857,8.93676558948517
+image_2018_10_25_18:49:05.png,"up released,up pressed,up released,up pressed,up released",135,295,-35.0267770876467,10.1123513203008
+image_2018_10_25_18:49:06.png,"up pressed,up released,up pressed,up released,up pressed",121,286,-16.6370040657502,5.18832180365602
+image_2018_10_25_18:49:07.png,"up released,up pressed,up released,up pressed,up released,up pressed",124,272,-35.0267770876467,2.19913037364004
+image_2018_10_25_18:49:08.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released",108,249,-11.7324492003258,2.61316597736372
+image_2018_10_25_18:49:09.png,"up pressed,up released,up pressed,up released,up pressed,up released",220,227,-1,3.28318511147756
+image_2018_10_25_18:49:10.png,"up pressed,up released,up pressed,up released,up pressed,up released",72,212,-4.52468672015456,3.74806134558216
+image_2018_10_25_18:49:11.png,"up pressed,up released,up pressed,up released,up pressed",52,190,-3.48820326678766,5.18752665550718
+image_2018_10_25_18:49:12.png,"up released,up pressed,up released,up pressed,up released",37,173,-2.90769230769231,7.21318219028474
+image_2018_10_25_18:49:13.png,"left pressed,left released",12,146,-2.41562715289186,20.7363008971705
+image_2018_10_25_18:49:14.png,"left pressed,left released",136,142,-1,35.0219461697723
+image_2018_10_25_18:49:15.png,"left pressed,left released,left pressed",5,137,-2.25155408772013,43.0281573498965
+image_2018_10_25_18:49:16.png,"left released,left pressed,left released,left pressed",6,140,-2.2487684729064,43.0354037267081
+image_2018_10_25_18:49:17.png,"left released,left pressed,left released",27,159,-2.4155998010151,23.9830227743271
+image_2018_10_25_18:49:18.png,"up pressed,up released,up pressed,up released,up pressed",50,188,-2.67788960959291,9.6971283751802
+image_2018_10_25_18:49:19.png,"up released,right pressed,right released",59,196,-2.82642988712039,9.05108575876876
+image_2018_10_25_18:49:20.png,"right pressed,right released,up pressed,up released",55,205,-2.89848198197609,9.06227614149515
+image_2018_10_25_18:49:21.png,"up pressed,up released,up pressed,up released",62,205,-2.98826669655914,9.45994276159078
+image_2018_10_25_18:49:22.png,"up pressed,up released,up pressed,up released",69,203,-2.82866313774074,9.05252254037796
+image_2018_10_25_18:49:23.png,"up pressed,up released,up pressed,up released,up pressed,up released",70,202,-2.91606768689,10.8335605670994
+image_2018_10_25_18:49:24.png,"up pressed,up released,up pressed,up released,up pressed",73,208,-2.9943647924199,8.25513714058168
+image_2018_10_25_18:49:25.png,"up released,up pressed,up released,up pressed,up released,up pressed",75,209,-2.90923076923077,8.25673203691341
+image_2018_10_25_18:49:26.png,"up released,up pressed,up released,up pressed",78,212,-3.08265802269044,7.18552061404352
+image_2018_10_25_18:49:27.png,"up released,up pressed,up released,up pressed,up released",84,213,-3.27958833619211,6.71270715057347
+image_2018_10_25_18:49:28.png,"up pressed,up released,up pressed,up released,up pressed,up released",78,217,-3.18112317944127,6.36562801392698
+image_2018_10_25_18:49:29.png,"up pressed,up released,up pressed,up released",77,215,-3.28505702262835,5.99053042509506
+image_2018_10_25_18:49:30.png,"up pressed,up released,up pressed,up released,up pressed,up released",79,219,-3.38303816855678,5.71561677462478
+image_2018_10_25_18:49:31.png,"up pressed,up released,up pressed,up released",80,221,-3.48638838475499,5.46376552960524
+image_2018_10_25_18:49:32.png,"up pressed,up released,up pressed,up released,up pressed",209,216,-1,5.71580454436863
+image_2018_10_25_18:49:33.png,"up released,up pressed,up released,up pressed,up released",74,212,-3.38018049374736,5.71473958164232
+image_2018_10_25_18:49:34.png,"up pressed,up released,up pressed,up released",71,205,-3.2722602739726,6.36789201742067
+image_2018_10_25_18:49:35.png,"left pressed,left released,up pressed,up released,up pressed,up released",75,212,-3.61069902796744,5.71473958164232
+image_2018_10_25_18:49:36.png,"up pressed,up released,up pressed,up released,up pressed,up released",83,225,-3.38706689536878,4.73751044501532
+image_2018_10_25_18:49:37.png,"up pressed,up released,right pressed,right released,right pressed",98,245,-4.27364839793959,3.89638613565406
+image_2018_10_25_18:49:38.png,"right released,right pressed,right released,right pressed,right released",103,241,-4.53073364888124,3.98458843313316
+image_2018_10_25_18:49:39.png,"right pressed,right released",87,228,-4.03942007216726,4.3546220646441
+image_2018_10_25_18:49:40.png,"up pressed,up released,up pressed,up released,up pressed",84,221,-3.87837040781935,4.9710458856855
+image_2018_10_25_18:49:41.png,"up released,up pressed,up released,up pressed,up released",82,215,-3.61522566440158,5.46376552960524
+image_2018_10_25_18:49:42.png,"up pressed,up released,up pressed,up released,up pressed",76,207,-3.60973190997904,6.80862763736178
+image_2018_10_25_18:49:43.png,"up released,up pressed,up released,up pressed,up released,up pressed",73,202,-3.38018049374736,7.18778461753721
+image_2018_10_25_18:49:44.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released",68,214,-3.45647035009541,7.15723178971873
+image_2018_10_25_18:49:45.png,"up pressed,up released,up pressed,up released,up pressed,up released",60,202,-3.16109167979508,8.37645834847832
+image_2018_10_25_18:49:46.png,"up pressed,up released,up pressed,up released",42,182,-2.86617326487667,9.69521266636794
+image_2018_10_25_18:49:47.png,"up pressed,up released,left pressed",42,177,-2.67862167401458,11.7324492003258
+image_2018_10_25_18:49:48.png,"left released,up pressed,up released,up pressed",24,161,-2.36163759364866,35.0267770876466
+image_2018_10_25_18:49:49.png,"up released,up pressed,up released,up pressed,up released",141,150,-43.0354037267081,57.1142857142857
+image_2018_10_25_18:49:50.png,"up pressed,up released,left pressed,left released",2,136,-13.2633795414533,-1
+image_2018_10_25_18:49:51.png,"left pressed,left released",-12,130,-9.66376586865522,-1
+image_2018_10_25_18:49:52.png,"left pressed,left released",-7,130,-6.25381601422311,-1
+image_2018_10_25_18:49:53.png,"left pressed,left released",-8,137,-6.75827561086155,-1
+image_2018_10_25_18:49:54.png,"up pressed,up released,up pressed,up released,up pressed",12,146,-11.3790603908647,-1
+image_2018_10_25_18:49:55.png,"up released,right pressed,up pressed",22,153,-15.0543317331726,-1
+image_2018_10_25_18:49:56.png,"right released,up released,up pressed,up released,up pressed",29,163,-18.4188714742697,-1
+image_2018_10_25_18:49:57.png,"up released,right pressed,right released",161,178,-42.8142857142857,23.7761904761905
+image_2018_10_25_18:49:58.png,"up pressed,up released,up pressed,up released,up pressed,up released",39,182,-2.25294689512699,33.2904761904762
+image_2018_10_25_18:49:59.png,"up pressed,up released,up pressed,up released,up pressed,up released",178,188,-1,18.3094417077176
+image_2018_10_25_18:50:00.png,"up pressed,up released,right pressed,right released,up pressed",58,190,-2.67862167401458,14.8983032293377
+image_2018_10_25_18:50:01.png,"up released,up pressed,up released,up pressed,up released",186,192,-1,11.7324492003258
+image_2018_10_25_18:50:03.png,"right pressed,right released,up pressed,up released,up pressed,up released",62,194,-2.74963396778917,11.734364909138
+image_2018_10_25_18:50:04.png,"up pressed,up released,up pressed,up released",65,200,-2.74963396778917,9.6971283751802
+image_2018_10_25_18:50:05.png,"up pressed,up released,up pressed,up released,up pressed,up released",69,206,-2.90769230769231,8.25513714058168
+image_2018_10_25_18:50:06.png,"up pressed,up released,up pressed,up released,up pressed,up released,up pressed",76,212,-3.17945517373669,7.1867196548109
+image_2018_10_25_18:50:07.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released,up pressed",79,218,-3.17945517373669,6.36562801392698
+image_2018_10_25_18:50:08.png,"up released,up pressed,up released,up pressed,up released",85,230,-3.82527697339795,4.97187600327906
+image_2018_10_25_18:50:09.png,"up pressed,up released,up pressed,up released,up pressed,up released",92,231,-4.04038906441532,4.96826853801793
+image_2018_10_25_18:50:10.png,"up pressed,up released,up pressed,up released,up pressed",94,239,-4.03003429499765,4.19971896627805
+image_2018_10_25_18:50:11.png,"up released,right pressed,right released,up pressed,up released,up pressed",106,247,-4.71325301204819,3.74917670128995
+image_2018_10_25_18:50:12.png,"up released,up pressed,up released,up pressed,up released",113,252,-5.41731381768542,3.50546061758436
+image_2018_10_25_18:50:13.png,"up pressed,up released,up pressed,up released,right pressed",114,252,-5.41875473987563,3.50546061758436
+image_2018_10_25_18:50:14.png,"right released,up pressed,up released,up pressed,up released",117,257,-5.71473958164232,3.28448526733961
+image_2018_10_25_18:50:15.png,"up pressed,up released,up pressed,up released,up pressed,up released",123,265,-6.36765359144675,3.1888573650767
+image_2018_10_25_18:50:16.png,"up pressed,up released,right pressed,right released,up pressed,up released",131,267,-8.25513714058168,2.91278785087632
+image_2018_10_25_18:50:17.png,"up pressed,up released,up pressed,up released,up pressed",133,275,-9.6971283751802,2.75300167521248
+image_2018_10_25_18:50:18.png,"up released,up pressed,up released,up pressed,up released",143,282,-12.8426929392447,2.6116178644907
+image_2018_10_25_18:50:19.png,"up pressed,up released,up pressed",141,281,-13.555884519292,2.76469083259064
+image_2018_10_25_18:50:20.png,up released,141,285,-11.7348301527067,2.61969996128282
+image_2018_10_25_18:50:24.png,"up pressed,up released,up pressed",141,285,-11.7348301527067,2.61969996128282
+image_2018_10_25_18:50:25.png,"up released,up pressed,up released,up pressed",136,285,-13.2106809739159,2.69658951392693
+image_2018_10_25_18:50:26.png,"up released,up pressed,up released,up pressed,up released",268,285,-1,2.69634549245304
+image_2018_10_25_18:50:27.png,"up pressed,up released,up pressed,up released",145,286,-11.8774094326726,2.61146294828475
+image_2018_10_25_18:50:28.png,"right pressed,right released,up pressed,up released,up pressed,up released",152,298,-14.90021893815,2.42312442723647
+image_2018_10_25_18:50:29.png,"up pressed,up released,up pressed,up released,up pressed,up released",162,304,-34.8793650793651,2.3062361722919
+image_2018_10_25_18:50:30.png,"up pressed,up released,up pressed,up released,up pressed,up released",171,322,-57.0857142857143,13.7031444517343
+image_2018_10_25_18:50:31.png,"up pressed,up released,up pressed,up released",179,324,-1,15.5553333145435
+image_2018_10_25_18:50:32.png,"up pressed,up released,up pressed,up released",181,329,-1,14.2574578369115
+image_2018_10_25_18:50:34.png,"up pressed,up released,up pressed,up released",188,332,-1,6.25341547656997
+image_2018_10_25_18:50:35.png,"up pressed,up released,up pressed,up released,up pressed,up released",186,329,-1,8.93047697201318
+image_2018_10_25_18:50:40.png,"right pressed,right released,right pressed,right released",220,230,-1,6.06469721694276
+image_2018_10_25_18:50:42.png,"up pressed,up released,up pressed,up released,up pressed",188,335,-1,5.1274273344014
+image_2018_10_25_18:50:43.png,"up released,left pressed,left released,up pressed",183,333,-1,5.4853659297439
+image_2018_10_25_18:50:44.png,"up released,right pressed,right released,up pressed,up released",187,332,-1,4.67281425706495
+image_2018_10_25_18:50:45.png,"up pressed,up released,right pressed,right released",190,338,-1,4.37491344733935
+image_2018_10_25_18:50:46.png,"up pressed,up released,right pressed,right released",191,339,-1,5.1281664864068
+image_2018_10_25_18:50:48.png,"up pressed,up released,up pressed,up released",196,203,-1,8.25393809981429
+image_2018_10_25_18:50:54.png,"right released,up pressed,up released,up pressed,up released,up pressed",244,247,-1,3.87837040781935
+image_2018_10_25_18:50:56.png,"right released,right pressed,right released,right pressed,right released",248,257,-1,3.39844146988456
+image_2018_10_25_18:50:58.png,"right pressed,right released,right pressed,right released",158,310,-1,11.262143453359
+image_2018_10_25_18:50:59.png,"up pressed,up released",147,291,-1,14.3671490654428
+image_2018_10_25_18:51:00.png,"left pressed,left released,up pressed,up released",122,267,-29.8307971014493,2.30624092242585
+image_2018_10_25_18:51:01.png,"up pressed,up released",118,262,-14.90021893815,2.42167781058484
+image_2018_10_25_18:51:02.png,"up pressed,up released,up pressed,up released,left pressed",110,252,-9.70828221268498,2.76348200348023
+image_2018_10_25_18:51:03.png,"left released,up pressed,up released,up pressed,up released",107,240,-7.65450669281395,3.08862046488698
+image_2018_10_25_18:51:04.png,"up pressed,up released,up pressed,up released,up pressed",101,235,-6.73907132278071,3.51986199415846
+image_2018_10_25_18:51:05.png,"up released,up pressed,up released,up pressed,up released",92,228,-5.72242694040746,3.89570753943006
+image_2018_10_25_18:51:06.png,"up pressed,up released,up pressed,up released,up pressed,up released",213,220,-1,4.3593434815868
+image_2018_10_25_18:51:07.png,"up pressed,up released,up pressed,up released,up pressed,up released",77,221,-3.87995296837003,4.35531219576902
+image_2018_10_25_18:53:27.png,"down pressed,down released,down pressed,down released,down pressed,down released",52,209,-1.86572669293144,-1
+image_2018_10_25_18:53:28.png,"down pressed,down released,down pressed,down released,down pressed",-76,107,-1.06720665748,-1
+image_2018_10_25_18:53:30.png,"right released,right pressed,right released,right pressed,right released,right pressed",-49,135,-1.25271666599155,-1
+image_2018_10_25_18:53:31.png,"right released,right pressed,right released,right pressed,right released",17,187,-1.68957634440344,-1
+image_2018_10_25_18:53:32.png,"right pressed,right released,right pressed,right released,right pressed,right released",50,198,-2.38202984317092,-1
+image_2018_10_25_18:53:33.png,"right pressed,right released,right pressed,right released",20,162,-1.78090307070411,-1
+image_2018_10_25_18:53:34.png,"right pressed,right released,right pressed,right released",20,162,-1.99759210511134,-1
+image_2018_10_25_18:53:35.png,"up pressed,up released,up pressed,up released",18,181,-2.85149295061398,-1
+image_2018_10_25_18:53:36.png,"up pressed,up released,up pressed,up released,up pressed,up released",52,202,-4.01131103500634,-1
+image_2018_10_25_18:53:37.png,"up pressed,up released,up pressed,up released,right pressed",110,251,-2.36265020026702,34.8920634920635
+image_2018_10_25_18:53:38.png,"right released,up pressed,up released,right pressed,right released",297,304,-1,4.3504098988072
+image_2018_10_25_18:53:52.png,"right released,up pressed,up released",165,308,-1,15.6859131190131
+image_2018_10_25_18:53:53.png,"up pressed,up released,left pressed,left released,up pressed",154,291,-57.1142857142857,2.25003526961801
+image_2018_10_25_18:53:54.png,"up released,up pressed,up released,up pressed,up released",137,278,-20.7363008971705,2.48079744588124
+image_2018_10_25_18:53:55.png,"up pressed,up released,left pressed,left released,up pressed",119,263,-8.26629097808645,2.75619353803834
+image_2018_10_25_18:53:56.png,"up released,up pressed,up released,up pressed,up released",103,247,-5.72349531647584,3.29685206029577
+image_2018_10_25_18:53:57.png,"left pressed,left released,up pressed,up released,up pressed,up released",84,230,-4.3591051453451,3.89508769366787
+image_2018_10_25_18:53:58.png,"up pressed,up released,up pressed,up released,left pressed,left released",78,214,-4.02282157676349,4.7407385179817
+image_2018_10_25_18:53:59.png,"up pressed,up released,up pressed,up released,up pressed",191,202,-1,6.075783643755
+image_2018_10_25_18:54:00.png,"up released,left pressed,left released,up pressed",47,179,-2.90769230769231,10.8404891636188
+image_2018_10_25_18:54:01.png,"up released,up pressed,up released,up pressed,up released",19,155,-20.6936006575671,35.0299516908213
+image_2018_10_25_18:54:02.png,"left pressed,left released,left pressed,left released",136,139,-43.0354037267081,-1
+image_2018_10_25_18:54:03.png,"up pressed,up released,up pressed",-6,123,-6.31704898318929,-1
+image_2018_10_25_18:54:04.png,"up released,up pressed,up released,up pressed,up released",114,116,-8.83828538799299,-1
+image_2018_10_25_18:54:05.png,"up pressed,up released,up pressed,up released",-28,110,-3.7038926804212,-1
+image_2018_10_25_18:54:06.png,"up pressed,up released,left pressed,left released,up pressed",105,113,-6.0721526322774,-1
+image_2018_10_25_18:54:07.png,"up released,up pressed,up released,up pressed",-18,119,-3.76283776611669,-1
+image_2018_10_25_18:54:08.png,"up released,up pressed,up released,up pressed",-17,124,-4.0693118407782,-1
+image_2018_10_25_18:54:09.png,"up released,up pressed,up released,up pressed,up released",121,126,-8.25393809981429,-1
+image_2018_10_25_18:54:10.png,"up pressed,up released,up pressed,up released,up pressed",-1,129,-5.62284772811089,-1
+image_2018_10_25_18:54:11.png,"up released,up pressed,up released,up pressed,up released",128,131,-8.82155463173582,-1
+image_2018_10_25_18:54:12.png,"up pressed,up released,up pressed,up released,up pressed,up released",0,138,-6.51200594524761,-1
+image_2018_10_25_18:54:13.png,"up pressed,up released,up pressed,up released,up pressed,up released,up pressed",0,140,-5.75161708998453,-1
+image_2018_10_25_18:54:14.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released",14,148,-9.25104144569889,-1
+image_2018_10_25_18:54:15.png,"up pressed,up released,up pressed,up released",22,152,-9.27092293558488,-1
+image_2018_10_25_18:54:16.png,"up pressed,up released,up pressed,up released,up pressed,up released",28,159,-11.6660682829951,-1
+image_2018_10_25_18:54:17.png,"up pressed,up released,up pressed,up released,up pressed,up released",169,179,-42.8142857142857,57.0857142857143
+image_2018_10_25_18:54:18.png,"up pressed,up released,up pressed,up released,up pressed,up released,up pressed",39,184,-15.8677059807801,57.1142857142857
+image_2018_10_25_18:54:19.png,"up released,up pressed,up released,up pressed,up released",198,219,-1,21.04303892987
+image_2018_10_25_18:54:20.png,"right pressed,right released,right pressed,right released",224,234,-1,7.761550845246
+image_2018_10_25_18:54:21.png,"up pressed,up released,up pressed,up released,up pressed",105,240,-3.27958833619211,6.36386092723826
+image_2018_10_25_18:54:22.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released",115,252,-3.87843661225866,4.92468933324923
+image_2018_10_25_18:54:23.png,"up pressed,up released,up pressed,up released,up pressed,up released",124,262,-4.33853006681515,4.3538796741467
+image_2018_10_25_18:54:24.png,"up pressed,up released,up pressed,up released",135,273,-5.1496062992126,3.49968405205007
+image_2018_10_25_18:54:25.png,"up pressed,up released,up pressed,up released,up pressed",139,281,-6.36778766948784,3.28502551585393
+image_2018_10_25_18:54:26.png,"up released,up pressed,up released,right pressed,right released,right pressed",148,294,-8.25513714058168,2.83740447281563
+image_2018_10_25_18:54:27.png,"right released,right pressed,right released,right pressed,right released",146,292,-8.25673203691341,2.92528648824477
+image_2018_10_25_18:54:28.png,"right pressed,right released,right pressed,right released",129,131,-5.99053042509506,-1
+image_2018_10_25_18:54:29.png,"right pressed,right released,up pressed,up released",102,237,-4.3585402687354,4.77740252543073
+image_2018_10_25_18:54:30.png,"up pressed,up released,up pressed,up released,up pressed",86,220,-3.61839675828048,5.71484392957516
+image_2018_10_25_18:54:31.png,"up released,up pressed,up released,up pressed,up released,up pressed",205,211,-1,7.1867196548109
+image_2018_10_25_18:54:32.png,"up released,up pressed,up released,up pressed,up released",67,207,-2.91606768689,7.76713089115465
+image_2018_10_25_18:54:33.png,"up pressed,up released,left pressed,left released,left pressed,left released",61,195,-2.82866313774074,10.8321237854902
+image_2018_10_25_18:54:34.png,"up pressed,up released,up pressed,up released",190,196,-1,9.69521266636794
+image_2018_10_25_18:54:35.png,"up pressed,up released,up pressed,up released,up pressed,up released,up pressed",67,203,-2.90769230769231,8.25393809981429
+image_2018_10_25_18:54:36.png,"up released,up pressed,up released,right pressed,right released,up pressed",65,206,-2.91533562246833,8.25513714058168
+image_2018_10_25_18:54:37.png,"up released,up pressed,up released,right pressed,right released,right pressed",199,206,-1,8.25513714058168
+image_2018_10_25_18:54:38.png,"right released,up pressed,up released,up pressed,up released,up pressed",65,201,-2.74963396778917,9.6971283751802
+image_2018_10_25_18:54:39.png,"up released,up pressed,up released,up pressed,up released,up pressed",68,205,-2.9943647924199,9.05252254037796
+image_2018_10_25_18:54:40.png,"up released,up pressed,up released,up pressed",56,200,-2.71153300091807,9.6971283751802
+image_2018_10_25_18:54:41.png,"up released,up pressed,up released,up pressed,up released,up pressed",43,194,-2.547842446358,13.5531546342345
+image_2018_10_25_18:54:42.png,"up released,up pressed,up released,up pressed,up released",50,187,-2.48170862802805,29.7202380952381
+image_2018_10_25_18:54:43.png,"up pressed,up released,up pressed,up released,up pressed,up released",179,186,-1,34.8793650793651
+image_2018_10_25_18:54:44.png,"up pressed,up released,up pressed,up released,up pressed",48,189,-2.49190339410852,29.7202380952381
+image_2018_10_25_18:54:45.png,"up released,up pressed,up released,up pressed,up released",57,192,-2.60614525139665,18.3108784893268
+image_2018_10_25_18:54:46.png,"up pressed,up released,up pressed,up released,up pressed,up released",180,190,-1,18.3094417077176
+image_2018_10_25_18:54:47.png,"up pressed,up released,up pressed,up released,up pressed,up released",176,182,-1,34.8793650793651
+image_2018_10_25_18:54:48.png,"up pressed,up released,up pressed,up released,up pressed,up released,up pressed",26,182,-2.20366188413169,29.7202380952381
+image_2018_10_25_18:54:49.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released",165,173,-57.0857142857143,42.8142857142857
+image_2018_10_25_18:54:50.png,"up pressed,up released,up pressed,up released,up pressed,up released,up pressed,up released",17,166,-18.3620745754996,57.1142857142857
+image_2018_10_25_18:54:51.png,"up pressed,up released,up pressed,up released,up pressed",152,158,-35.0267770876467,-1
+image_2018_10_25_18:54:52.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released,up pressed",2,147,-7.73664627112427,-1
+image_2018_10_25_18:54:53.png,"up released,up pressed,up released,up pressed,up released,up pressed",3,141,-6.97635898389832,-1
+image_2018_10_25_18:54:55.png,"up pressed,up released,up pressed,up released",3,135,-6.6236367580439,-1
+image_2018_10_25_18:54:56.png,"up pressed,up released,up pressed,up released,left pressed,left released",-3,134,-3.31709210364544,-1
+image_2018_10_25_18:54:57.png,"up pressed,up released,up pressed,up released,up pressed,up released",12,142,-5.33392222973799,-1
+image_2018_10_25_18:54:58.png,"up pressed,up released,up pressed,up released",148,153,-11.734364909138,-1
+image_2018_10_25_18:54:59.png,"up pressed,up released,right pressed,right released,up pressed",155,157,-12.8426929392447,-1
+image_2018_10_25_18:55:00.png,"up released,up pressed,up released,up pressed,up released,up pressed",33,179,-18.3787115218231,57.0857142857143
+image_2018_10_25_18:55:01.png,"up released,right pressed,right released,up pressed,up released",42,180,-15.9400783224394,57.0857142857143
+image_2018_10_25_18:55:02.png,"up pressed,up released,up pressed,up released,up pressed,up released",184,199,-1,29.0272988505747
+image_2018_10_25_18:55:03.png,"up pressed,up released,up pressed,up released,up pressed,up released,right pressed",186,199,-1,26.0737438423645
+image_2018_10_25_18:55:04.png,"right released,up pressed,up released,up pressed,up released,up pressed",51,197,-2.48174790234551,14.8983032293377
+image_2018_10_25_18:55:05.png,"up released,up pressed,up released,up pressed,up released",65,205,-2.67788960959291,9.69680756269968
+image_2018_10_25_18:55:06.png,"up pressed,up released,up pressed,up released,up pressed,up released",198,208,-1,10.8321237854902
+image_2018_10_25_18:55:07.png,"up pressed,up released,up pressed,up released",75,210,-2.7510980966325,9.6971283751802
+image_2018_10_25_18:55:08.png,"up pressed,up released,up pressed,up released",204,210,-1,9.6971283751802
+image_2018_10_25_18:55:09.png,"up pressed,up released,up pressed,up released,up pressed",69,210,-2.67788960959291,9.6971283751802
+image_2018_10_25_18:55:10.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released,up pressed",207,214,-1,8.25513714058168
+image_2018_10_25_18:55:11.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released,up pressed",214,221,-1,7.18658557676982
+image_2018_10_25_18:55:12.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released,up pressed",215,225,-1,6.8095516689949
+image_2018_10_25_18:55:13.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released",222,228,-1,6.36682705469437
+image_2018_10_25_18:55:14.png,"up pressed,up released,up pressed,up released,right pressed,right released",99,234,-3.49272727272727,5.71128734586055
+image_2018_10_25_18:55:15.png,"right pressed,right released,up pressed,up released,up pressed",218,239,-1,6.26381499613922
+image_2018_10_25_18:55:16.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released",100,242,-3.84007319139771,6.15530345998369
+image_2018_10_25_18:55:17.png,"up pressed,up released,up pressed,up released,up pressed,up released",103,243,-4.06814659456917,6.05676300043484
+image_2018_10_25_18:55:18.png,"up pressed,up released,up pressed,up released,up pressed,up released,up pressed",237,246,-1,5.46531303220447
+image_2018_10_25_18:55:19.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released",120,256,-4.52357313440846,4.35456980527162
+image_2018_10_25_18:55:20.png,"up pressed,up released,up pressed,up released",125,265,-4.93700063411541,3.74801595978284
+image_2018_10_25_18:55:21.png,"up pressed,up released,up pressed,up released",129,271,-5.41731381768542,3.49781214089927
+image_2018_10_25_18:55:22.png,"up pressed,up released,up pressed",129,271,-5.71377896684886,3.49781214089927
+image_2018_10_25_18:55:23.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released",136,276,-6.71450571172455,3.17750493994361
+image_2018_10_25_18:55:24.png,"up pressed,up released,up pressed,up released",139,279,-7.12230215827338,3.08756739585984
+image_2018_10_25_18:55:25.png,"up pressed,up released,up pressed",136,279,-7.1867196548109,3.08699661960413
+image_2018_10_25_18:55:26.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released",134,281,-6.71270715057347,2.9132758938241
+image_2018_10_25_18:55:27.png,"up pressed,up released,up pressed,up released,up pressed,up released",135,280,-7.1867196548109,2.91278785087632
+image_2018_10_25_18:55:28.png,"up pressed,up released,up pressed,up released,up pressed,up released",137,282,-7.62492628847742,2.83649323321724
+image_2018_10_25_18:55:29.png,"up pressed,up released,up pressed",140,286,-8.82155463173582,2.76462368593881
+image_2018_10_25_18:55:30.png,up released,136,286,-7.62697546880528,2.68586945014782
+image_2018_10_25_18:55:34.png,"up pressed,up released,up pressed,up released",137,284,-8.25393809981429,2.76462368593881
+image_2018_10_25_18:55:36.png,"up pressed,up released,up pressed,up released,up pressed,up released",134,279,-8.25513714058168,2.83740447281563
+image_2018_10_25_18:55:37.png,"up pressed,up released,up pressed,up released,up pressed,up released",134,277,-8.25513714058168,2.75570549509056
+image_2018_10_25_18:55:38.png,"up pressed,up released,up pressed,up released,up pressed",132,277,-8.25513714058168,2.75570549509056
+image_2018_10_25_18:55:39.png,"up released,up pressed",131,277,-7.12230215827338,2.75570549509056
+image_2018_10_25_18:55:40.png,"up released,up pressed,up released",133,273,-8.13114754098361,2.91278785087632
+image_2018_10_25_18:55:42.png,"up pressed,up released,up pressed,up released",127,272,-7.18658557676982,2.9132758938241
+image_2018_10_25_18:55:43.png,"up pressed,up released,up pressed,up released,up pressed,up released",127,269,-7.22052584716912,2.9132758938241
+image_2018_10_25_18:55:44.png,"up pressed,up released,up pressed,up released,up pressed,up released",121,264,-5.98908950290486,3.18931191053124
+image_2018_10_25_18:55:45.png,"up pressed,up released",119,262,-6.00063733096874,3.2825790508715
+image_2018_10_25_18:55:46.png,"up pressed,up released,up pressed,up released,up pressed,up released",115,255,-5.72254589495982,3.50358870643356
+image_2018_10_25_18:55:47.png,"up pressed,up released,up pressed,up released,up pressed,up released,up pressed,up released",114,251,-5.72254589495982,3.74917670128995
+image_2018_10_25_18:55:48.png,"up pressed,up released,up pressed,up released,up pressed,up released,up pressed",240,249,-1,3.89689729137677
+image_2018_10_25_18:55:49.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released",91,245,-4.42292675306225,4.81568042520374
+image_2018_10_25_18:55:50.png,"up pressed,up released,up pressed,up released,up pressed,up released,up pressed",225,231,-1,5.70926176834077
+image_2018_10_25_18:55:51.png,"up released,up pressed,up released,up pressed,up released,up pressed",87,229,-3.38425902864259,5.71022238313424
+image_2018_10_25_18:55:52.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released",92,233,-3.49272727272727,5.1790702987584
+image_2018_10_25_18:55:53.png,"up pressed,up released,up pressed,up released,up pressed,up released,up pressed",226,234,-1,5.17914197654567
+image_2018_10_25_18:55:54.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released",91,234,-3.50056984888229,4.96833283113403
+image_2018_10_25_18:55:55.png,"up pressed,up released,up pressed,up released",225,237,-1,4.77797889430681
+image_2018_10_25_18:55:56.png,"up pressed,up released,up pressed,up released,up pressed,up released,up pressed",97,237,-4.19971896627805,4.55388572162991
+image_2018_10_25_18:55:57.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released",96,239,-4.78023539734075,4.6042430702092
+image_2018_10_25_18:55:58.png,"up pressed,up released,up pressed,up released,up pressed,up released,up pressed",220,228,-1,5.1845369187825
+image_2018_10_25_18:55:59.png,"up released,left pressed,left released,up pressed,up released,up pressed",214,221,-1,5.71484392957516
+image_2018_10_25_18:56:00.png,"up released,up pressed,up released,up pressed,up released,up pressed",81,222,-3.38615780445969,6.06742894784482
+image_2018_10_25_18:56:01.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released",77,223,-3.28779136584647,5.42017887214965
+image_2018_10_25_18:56:02.png,"up pressed,up released,up pressed,up released,up pressed,up released",78,225,-3.28769264770886,5.82226471550811
+image_2018_10_25_18:56:03.png,"up pressed,up released,up pressed,up released,up pressed,up released,up pressed",216,222,-1,6.36682705469437
+image_2018_10_25_18:56:04.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released",91,228,-3.3833499377335,6.06314176838822
+image_2018_10_25_18:56:05.png,"up pressed,up released,right pressed,right released,up pressed,up released,up pressed",95,232,-3.49272727272727,5.70926176834077
+image_2018_10_25_18:56:06.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released",100,238,-3.61386847195358,5.18206003548308
+image_2018_10_25_18:56:07.png,"up pressed,up released,up pressed,up released,up pressed,up released,up pressed",239,251,-1,4.39162603874293
+image_2018_10_25_18:56:08.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released",116,251,-4.73751044501532,4.55454188960892
+image_2018_10_25_18:56:09.png,"up pressed,up released,up pressed,up released,up pressed,up released,up pressed,up released",123,262,-4.93700063411541,4.03257223683912
+image_2018_10_25_18:56:10.png,"up pressed,up released,up pressed,up released,right pressed,right released,up pressed",134,276,-5.99053042509506,3.50093375805322
+image_2018_10_25_18:56:13.png,"right pressed,right released,right pressed,right released,right pressed",163,310,-14.9033935413246,2.36211748584974
+image_2018_10_25_18:56:15.png,"up pressed,up released",267,273,-1,2.91278785087632
+image_2018_10_25_19:01:55.png,"right released,right pressed,right released,right pressed",123,264,-4.71084337349398,4.03261762263844
+image_2018_10_25_19:01:56.png,"right released,right pressed,right released",124,265,-5.71377896684886,3.74801595978284
+image_2018_10_25_19:01:57.png,"up pressed,up released,up pressed,up released",119,265,-4.93700063411541,3.50056984888229
+image_2018_10_25_19:01:58.png,"up pressed,up released,up pressed,up released,up pressed,up released",126,270,-5.42007052934931,3.17750493994361
+image_2018_10_25_19:01:59.png,"right pressed,right released,up pressed,up released,up pressed",137,284,-7.62492628847742,2.7549560583076
+image_2018_10_25_19:02:00.png,"up released,up pressed,up released,up pressed,up released,up pressed",149,292,-11.734364909138,2.61101731548618
+image_2018_10_25_19:02:01.png,"up released,right pressed,right released,up pressed,up released",161,300,-34.8793650793651,2.359743030849
+image_2018_10_25_19:02:05.png,"right pressed,right released,right pressed,right released",165,307,-42.8142857142857,13.2617260318957
+image_2018_10_25_19:02:06.png,"right pressed,right released,right pressed,right released,right pressed",162,306,-42.8142857142857,13.2616277289067
+image_2018_10_25_19:02:07.png,"right released,right pressed,right released,right pressed,right released",144,286,-20.7346445824707,2.47990313402976
+image_2018_10_25_19:02:08.png,"up pressed,up released,left pressed",123,262,-10.4801187922785,2.91278785087632
+image_2018_10_25_19:02:09.png,"left released,up pressed,up released,left pressed,left released",114,261,-8.31533337922963,2.91278785087632
+image_2018_10_25_19:02:10.png,"up pressed,up released,up pressed,up released,up pressed",110,259,-7.24576606521051,2.9132758938241
+image_2018_10_25_19:02:11.png,"up released,up pressed,up released,up pressed",109,258,-7.2046114295648,3.00348922522791
+image_2018_10_25_19:02:12.png,"up released,up pressed,up released,up pressed,up released",107,257,-7.20567980563318,3.00265595665039
+image_2018_10_25_19:02:13.png,"up pressed,up released,up pressed,up released,up pressed,up released",98,249,-6.1984114707023,3.18684456089185
+image_2018_10_25_19:02:14.png,"up pressed,up released,up pressed,up released",90,243,-4.53037614451868,3.51906106828815
+image_2018_10_25_19:02:15.png,"up pressed,up released",93,239,-4.93591426071741,3.62859347933608
+image_2018_10_25_19:02:16.png,"up pressed,up released,up pressed,up released,up pressed,up released",89,234,-4.53158387398728,3.8961620848846
+image_2018_10_25_19:02:17.png,"up pressed,up released,left pressed,left released,up pressed,up released",84,228,-4.3591051453451,4.03003429499765
+image_2018_10_25_19:02:18.png,"left pressed,left released",84,226,-4.3591051453451,4.2003213759166
+image_2018_10_25_19:02:19.png,"up pressed,up released,up pressed,up released",82,225,-4.17651141021917,4.20023656462173
+image_2018_10_25_19:02:20.png,"up pressed,up released,up pressed,up released",73,223,-4.1451978215655,4.79705335874593
+image_2018_10_25_19:02:21.png,"up pressed,up released",67,208,-3.78193333732254,6.47887687313606
+image_2018_10_25_19:02:22.png,"up pressed,up released",63,210,-3.28261433522185,6.18468493059245
+image_2018_10_25_19:02:25.png,"up pressed,up released,up pressed",66,203,-3.27397260273973,6.80772835678624
+image_2018_10_25_19:02:26.png,"up released,up pressed,up released",65,200,-3.3833499377335,7.76713089115465
+image_2018_10_25_19:02:27.png,"up pressed,up released,up pressed,up released",63,197,-3.08103727714749,8.25393809981429
+image_2018_10_25_19:02:28.png,"up pressed,up released,up pressed,up released",62,197,-3.08103727714749,8.25393809981429
+image_2018_10_25_19:02:29.png,"up pressed,up released",62,198,-3.08103727714749,8.25513714058168
+image_2018_10_25_19:02:30.png,"up pressed,up released,up pressed,up released",59,198,-2.9943647924199,8.25513714058168
+image_2018_10_25_19:02:31.png,"up pressed,up released,up pressed,up released",61,198,-2.9943647924199,8.25513714058168
+image_2018_10_25_19:02:32.png,"up pressed,up released,up pressed,up released",60,203,-2.90769230769231,7.18778461753721
+image_2018_10_25_19:02:33.png,"up pressed,up released,up pressed,up released",62,202,-3.08604803437155,7.18778461753721
+image_2018_10_25_19:02:34.png,"up pressed,up released",61,203,-3.08756739585984,7.18778461753721
+image_2018_10_25_19:02:36.png,"up pressed,up released,up pressed",57,218,-2.97758766902151,6.04736617225912
+image_2018_10_25_19:02:37.png,"up released,up pressed,up released,up pressed,up released",62,221,-3.32024141996953,5.65604044116358
+image_2018_10_25_19:02:38.png,"up pressed,up released,up pressed,up released,up pressed,up released",203,213,-1,4.97172073001509
+image_2018_10_25_19:02:39.png,"up pressed,up released,up pressed,up released",69,205,-3.49272727272727,5.71473958164232
+image_2018_10_25_19:02:40.png,"up pressed,up released,right pressed,right released",63,199,-3.38425902864259,6.37463336801186
+image_2018_10_25_19:02:41.png,"up pressed,up released,up pressed,up released",54,194,-2.9943647924199,7.19345759206002
+image_2018_10_25_19:02:42.png,"up pressed,up released,up pressed,up released",53,194,-2.9943647924199,7.19225855129264
+image_2018_10_25_19:02:43.png,"up pressed,up released,up pressed,up released",45,184,-2.82866313774074,9.69521266636794
+image_2018_10_25_19:02:44.png,"right pressed,right released,up pressed,up released",44,180,-2.90769230769231,11.7324492003258
+image_2018_10_25_19:02:45.png,"up pressed,up released",40,177,-2.74963396778917,11.7324492003258
+image_2018_10_25_19:02:46.png,"up pressed,up released,up pressed,up released,up pressed,up released",36,172,-2.74963396778917,14.90021893815
+image_2018_10_25_19:02:47.png,"up pressed,up released,up pressed,up released",23,166,-2.48438228438228,20.7386818495514
+image_2018_10_25_19:02:48.png,"up pressed,up released,up pressed,up released",19,163,-2.36302060008957,35.0267770876467
+image_2018_10_25_19:02:49.png,"left pressed,left released,up pressed,up released",10,159,-2.21970423163149,43.0354037267081
+image_2018_10_25_19:02:50.png,"up pressed,up released,up pressed,up released,up pressed",17,158,-15.9669407858307,43.0354037267081
+image_2018_10_25_19:02:51.png,"up released,left pressed,left released,left pressed",11,154,-22.5924510592062,57.1142857142857
+image_2018_10_25_19:02:52.png,"left released,left pressed,left released",0,151,-12.9993949712179,-1
+image_2018_10_25_19:02:53.png,"up pressed,up released",15,162,-15.8667749395282,57.1142857142857
+image_2018_10_25_19:02:54.png,"right pressed,right released,up pressed,up released",28,168,-20.493405785259,43.0354037267081
+image_2018_10_25_19:02:55.png,"up pressed,up released,up pressed,up released",20,169,-2.17956964517268,43.0354037267081
+image_2018_10_25_19:02:56.png,"up pressed,up released",20,169,-2.05526787440497,43.0354037267081
+image_2018_10_25_19:02:59.png,"up pressed,up released",30,170,-2.1972515350314,43.0211180124224
+image_2018_10_25_19:03:02.png,"up pressed,up released,up pressed,up released,right pressed,right released,up pressed,up released",27,177,-2.21739489192552,34.8793650793651
+image_2018_10_25_19:03:03.png,"up pressed,up released,right pressed,right released",44,184,-2.35897435897436,20.5984126984127
+image_2018_10_25_19:03:08.png,up pressed,41,184,-2.2487684729064,20.5984126984127
+image_2018_10_25_19:03:09.png,"up released,up pressed,up released",47,190,-2.35897435897436,25.4451559934319
+image_2018_10_25_19:03:12.png,"up pressed,up released",47,190,-2.35897435897436,25.4451559934319
+image_2018_10_25_19:03:13.png,"up pressed,up released,right pressed,right released,up pressed,up released,up pressed",57,196,-2.67788960959291,11.734364909138
+image_2018_10_25_19:03:14.png,"up released,up pressed,up released,right pressed,right released,up pressed,up released",67,203,-2.7510980966325,9.69521266636794
+image_2018_10_25_19:03:15.png,"up pressed,up released,up pressed,up released,right pressed,right released",70,212,-2.90769230769231,7.18552061404352
+image_2018_10_25_19:03:16.png,"up pressed,up released,up pressed,up released",78,219,-3.18112317944127,6.36765359144675
+image_2018_10_25_19:03:17.png,"right pressed,right released,up pressed,up released,up pressed,up released",88,223,-3.61748766737139,6.0673422919371
+image_2018_10_25_19:03:18.png,"up pressed,up released,up pressed,up released,up pressed",92,231,-3.87940560450672,5.17826708590699
+image_2018_10_25_19:03:19.png,"up released,up pressed,up released,right pressed,right released,up pressed,up released",109,262,-5.99087145859826,3.08943930701063
+image_2018_10_25_19:03:20.png,"up pressed,up released,up pressed,up released",122,266,-7.62492628847742,3.00308403884217
+image_2018_10_25_19:03:34.png,"up released,right pressed,right released,right pressed,right released",189,335,-1,4.50990402081607
+image_2018_10_25_19:03:35.png,"right pressed,right released,right pressed,right released",178,327,-1,5.53146553871005
+image_2018_10_25_19:03:36.png,"right pressed,right released",153,298,-1,15.685729363041
+image_2018_10_25_19:03:37.png,"left pressed,left released,up pressed,up released",137,280,-43.0354037267081,2.25581991311978
+image_2018_10_25_19:03:38.png,"up pressed,up released,left pressed",119,263,-15.226026272578,2.54834080095716
+image_2018_10_25_19:03:39.png,"left released,up pressed,up released,up pressed,up released",109,249,-8.83828538799299,2.83651181639102
+image_2018_10_25_19:03:40.png,"left pressed,left released,up pressed,up released,left pressed",90,235,-6.20697790275521,3.39525862375681
+image_2018_10_25_19:03:41.png,"left released,up pressed,up released,up pressed,up released",83,221,-4.53158387398728,4.03567516490924
+image_2018_10_25_19:03:42.png,"left pressed,left released,up pressed,up released",65,207,-3.61386847195358,5.18270086260406
+image_2018_10_25_19:03:43.png,"up pressed,up released,left pressed,left released,up pressed,up released",66,206,-3.73500967117988,5.47372022961143
+image_2018_10_25_19:03:44.png,"left pressed,left released,up pressed,up released",51,196,-3.09364032194221,6.81688177474115
+image_2018_10_25_19:03:45.png,"up pressed,up released,left pressed,left released,up pressed",48,194,-2.99517516519137,6.81785979401537
+image_2018_10_25_19:03:46.png,"up released,up pressed,up released",46,185,-2.90769230769231,8.25650326080025
+image_2018_10_25_19:03:47.png,"up pressed,up released,up pressed,up released,up pressed",41,181,-2.91606768689,9.70636650387272
+image_2018_10_25_19:03:48.png,"up released,up pressed,up released,up pressed,up released",170,176,-1,11.7324492003258
+image_2018_10_25_19:03:49.png,"left pressed,left released,up pressed,up released,up pressed,up released",161,168,-1,20.7363008971705
+image_2018_10_25_19:03:50.png,"left pressed,left released,left pressed",24,164,-2.3016183875027,35.0267770876466
+image_2018_10_25_19:03:51.png,"left released,left pressed,left released",166,173,-1,20.7314699792961
+image_2018_10_25_19:03:52.png,"up pressed,up released,up pressed,up released",51,190,-2.67862167401458,11.7324492003258
+image_2018_10_25_19:03:53.png,"right pressed,right released,up pressed",57,195,-2.91381614233842,9.69521266636794
+image_2018_10_25_19:03:54.png,"up released,right pressed,right released,up pressed,up released",63,205,-2.9943647924199,7.1867196548109
+image_2018_10_25_19:03:55.png,"up pressed,up released,up pressed,up released",67,206,-3.17750493994361,7.18552061404352
+image_2018_10_25_19:03:56.png,"up pressed,up released,up pressed,up released",67,209,-3.17750493994361,6.80772835678624
+image_2018_10_25_19:03:57.png,"right pressed,right released,up pressed,up released,up pressed,up released",71,209,-3.38340286425903,6.36658862872045
+image_2018_10_25_19:03:58.png,"up pressed,up released,up pressed,up released",69,209,-3.27397260273973,6.36658862872045
+image_2018_10_25_19:03:59.png,"up pressed,up released,up pressed,up released",69,209,-3.3833499377335,6.36658862872045
+image_2018_10_25_19:04:00.png,"up pressed,up released,up pressed,up released",68,210,-3.17745914833152,6.36562801392698
+image_2018_10_25_19:04:01.png,"up pressed,up released",69,211,-3.17664877556005,6.36562801392698
+image_2018_10_25_19:04:02.png,"up pressed,up released,up pressed",69,210,-3.17664877556005,6.36562801392698
+image_2018_10_25_19:04:03.png,"up released,up pressed,up released,up pressed,up released",75,210,-3.48638838475499,6.36562801392698
+image_2018_10_25_19:04:04.png,"up pressed,up released,right pressed,right released,up pressed,up released",206,214,-1,5.71465615983131
+image_2018_10_25_19:04:05.png,"up pressed,up released,up pressed,up released,right pressed,right released",76,216,-3.48638838475499,5.71484392957516
+image_2018_10_25_19:04:06.png,"right pressed,right released",78,215,-3.48820326678766,5.71484392957516
+image_2018_10_25_19:04:07.png,"up pressed,up released,up pressed",75,210,-3.61069902796744,6.36562801392698
+image_2018_10_25_19:04:08.png,"up released,up pressed,up released,up pressed,up released,up pressed",68,209,-3.38425902864259,6.36658862872045
+image_2018_10_25_19:04:09.png,"up released,up pressed,up released,up pressed,up released",198,208,-1,6.80965222752571
+image_2018_10_25_19:04:10.png,"up pressed,up released,up pressed,up released,up pressed",55,209,-3.07050998391293,7.73583785784278
+image_2018_10_25_19:04:11.png,"up released,up pressed,up released,right pressed,right released",62,207,-3.09974490802474,8.25513714058168
+image_2018_10_25_19:04:12.png,"up pressed,up released,right pressed",67,207,-3.09083245521602,8.25513714058168
+image_2018_10_25_19:04:13.png,"right released,up pressed,up released,up pressed,up released",80,217,-3.27958833619211,6.80700789569114
+image_2018_10_25_19:04:14.png,"right pressed,right released,up pressed,up released,up pressed",88,230,-3.61748766737139,5.17730647111353
+image_2018_10_25_19:04:15.png,"up released,right pressed,right released,up pressed,up released",96,239,-3.87578640908891,4.3546220646441
+image_2018_10_25_19:04:16.png,"right pressed,right released,right pressed,right released",101,245,-4.18238871635611,4.03244709194286
+image_2018_10_25_19:04:17.png,"right pressed,right released,right pressed,right released",100,241,-4.74538051897188,4.20204616233064
+image_2018_10_25_19:04:18.png,"up pressed,up released,up pressed",88,226,-4.17754660690654,4.9710458856855
+image_2018_10_25_19:04:19.png,"up released,up pressed",83,224,-4.0311109659859,4.73751044501532
+image_2018_10_25_19:04:20.png,"up released,up pressed,up released,up pressed,up released",74,211,-3.5044911369598,6.36669297665329
+image_2018_10_25_19:04:21.png,"up pressed,up released,up pressed,up released,up pressed,up released",59,204,-2.90769230769231,7.76905476189412
+image_2018_10_25_19:04:22.png,"left pressed,left released,up pressed,up released,up pressed",61,203,-3.08997629083245,8.25393809981429
+image_2018_10_25_19:04:23.png,"up released,up pressed,up released,up pressed,up released",61,203,-2.90769230769231,8.25393809981429
+image_2018_10_25_19:04:24.png,"up pressed,up released,up pressed,up released,up pressed,up released",60,201,-2.9943647924199,7.62672484962849
+image_2018_10_25_19:04:25.png,"up pressed,up released,up pressed,up released,up pressed,up released,up pressed,up released",67,206,-3.08103727714749,7.18552061404352
+image_2018_10_25_19:04:26.png,"up pressed,up released,up pressed,up released,up pressed,up released",63,207,-2.9943647924199,7.18552061404352
+image_2018_10_25_19:04:27.png,"up pressed,up released,up pressed,up released",67,208,-2.9943647924199,7.18658557676982
+image_2018_10_25_19:04:28.png,"up pressed,up released,up pressed,up released,up pressed,up released",72,209,-3.2722602739726,6.71610315581401
+image_2018_10_25_19:04:29.png,"right pressed,right released,up pressed",74,212,-3.27397260273973,6.36789201742067
+image_2018_10_25_19:04:30.png,"up released,up pressed,up released,up pressed,up released",72,214,-3.17415602695394,6.36778766948784
+image_2018_10_25_19:04:31.png,"up pressed,up released,up pressed,up released,up pressed,up released",79,214,-3.38303816855678,6.36778766948784
+image_2018_10_25_19:04:32.png,"right pressed,right released,up pressed,up released,up pressed,up released",82,219,-3.61522566440158,5.71465615983131
+image_2018_10_25_19:04:33.png,"up pressed,up released,right pressed,right released,up pressed",79,221,-3.38303816855678,5.71580454436863
+image_2018_10_25_19:04:34.png,"up released,up pressed,up released,right pressed",222,232,-1,4.96826853801793
+image_2018_10_25_19:04:35.png,"right released,right pressed,right released",93,236,-4.01656314699793,4.3546220646441
+image_2018_10_25_19:04:36.png,"right pressed,right released,up pressed,up released",90,229,-4.17539782447306,4.73751044501532
+image_2018_10_25_19:04:37.png,"up pressed,up released,up pressed,up released",87,233,-3.87740141557128,4.35734751145903
+image_2018_10_25_19:04:38.png,"up pressed,up released,up pressed,up released",97,235,-4.52357313440846,4.3546220646441
+image_2018_10_25_19:04:39.png,"up pressed,up released",99,236,-4.52589153943167,4.3546220646441
+image_2018_10_25_19:04:40.png,"up pressed,up released,up pressed,up released",97,237,-4.52357313440846,4.17754660690654
+image_2018_10_25_19:04:47.png,"up pressed,up released",100,236,-4.52468672015456,4.3546220646441
+image_2018_10_25_19:04:48.png,"up pressed,up released,up pressed,up released,up pressed,up released,up pressed,up released,up pressed,up released,up pressed,up released,up pressed,up released",102,240,-4.52357313440846,4.19923540728385
+image_2018_10_25_19:04:49.png,"up pressed,up released,up pressed,up released,up pressed,up released,up pressed,up released,up pressed",106,250,-5.18905411729058,3.75042875672805
+image_2018_10_25_19:04:50.png,"up released,up pressed,up released,up pressed,up released,right pressed",245,255,-1,3.63271865159406
+image_2018_10_25_19:04:51.png,"right released,right pressed,right released",117,265,-6.19738977272865,3.51984367751363
+image_2018_10_25_19:04:52.png,"right pressed,right released,right pressed,right released",116,261,-5.42007052934931,3.50060513323265
+image_2018_10_25_19:04:53.png,"right pressed,right released,right pressed,right released",90,234,-4.17539782447306,4.35889311480783
+image_2018_10_25_19:05:33.png,"up pressed,up released,up pressed,up released,up pressed,up released",54,191,-2.2460024600246,28.5285714285714
+image_2018_10_25_19:05:36.png,"up pressed,up released,right pressed,right released,up pressed,up released",88,229,-3.08103727714749,7.17808055283198
+image_2018_10_25_19:05:37.png,"up pressed,up released,up pressed,up released,up pressed",94,231,-3.27397260273973,6.35914856750892
+image_2018_10_25_19:05:38.png,"up released,up pressed,up released,up pressed,up released,up pressed",98,242,-3.5044911369598,5.17810968396493
+image_2018_10_25_19:05:39.png,"up released,up pressed,up released,up pressed,up released,right pressed",113,261,-4.36683247512873,4.19967977174868
+image_2018_10_25_19:05:40.png,"right released,right pressed,right released,right pressed,right released",124,270,-5.39551233351094,3.63002271886575
+image_2018_10_25_19:05:41.png,"right pressed,right released,up pressed,up released",119,260,-5.16315789473684,3.74740989917678
+image_2018_10_25_19:05:42.png,"up pressed,up released,left pressed,left released",109,253,-4.93700063411541,3.89797168259351
+image_2018_10_25_19:05:43.png,"up pressed,up released,up pressed,up released",106,258,-4.73676805451792,3.93107527682713
+image_2018_10_25_19:05:44.png,"up pressed,up released,up pressed,up released",109,258,-5.18182366962161,3.50358870643356
+image_2018_10_25_19:05:46.png,"up pressed,up released,up pressed,up released,up pressed,up released",117,263,-6.00223989507131,3.2825790508715
+image_2018_10_25_19:05:47.png,"up pressed,up released,up pressed,up released,up pressed",118,264,-5.67435158501441,3.28261433522185
+image_2018_10_25_19:05:48.png,"up released,up pressed,up released,up pressed,up released",123,268,-5.99212786918452,3.08756739585984
+image_2018_10_25_19:05:49.png,"right pressed,right released,up pressed,up released,up pressed,up released",130,274,-7.62492628847742,3.00265595665039
+image_2018_10_25_19:05:50.png,"up pressed,up released,up pressed",132,276,-7.62672484962849,2.91278785087632
+image_2018_10_25_19:05:51.png,"up released,up pressed,up released,up pressed,up released",135,277,-8.82155463173582,2.91112601847225
+image_2018_10_25_19:05:52.png,"up pressed,up released,up pressed,up released",137,281,-8.82155463173582,2.7549560583076
+image_2018_10_25_19:05:53.png,"up pressed,up released,up pressed,up released,up pressed,up released",141,284,-9.69521266636794,2.75544410125538
+image_2018_10_25_19:05:54.png,"up pressed,up released,up pressed",146,286,-10.4801187922785,2.67862167401458
+image_2018_10_25_19:05:55.png,"up released,right pressed,right released,right pressed,right released",148,151,-10.4801187922785,-1
+image_2018_10_25_19:05:56.png,"right pressed,right released,right pressed,right released",140,288,-9.69521266636794,2.61148286483441
+image_2018_10_25_19:05:57.png,"right pressed,right released,up pressed,up released",131,273,-8.25513714058168,2.91278785087632
+image_2018_10_25_19:05:58.png,"up pressed,up released,up pressed,up released",123,267,-7.1867196548109,3.08604803437155
+image_2018_10_25_19:05:59.png,"up pressed,up released,left pressed",126,266,-7.62672484962849,3.08607856211294
+image_2018_10_25_19:06:00.png,"left released,up pressed,up released,up pressed",122,264,-6.72461261759823,3.08699661960413
+image_2018_10_25_19:06:01.png,"up released,left pressed,left released,up pressed,up released,up pressed,up released",115,259,-6.39508738830261,3.28318511147756
+image_2018_10_25_19:06:02.png,"up pressed,up released,up pressed,up released",117,263,-5.67435158501441,3.2825790508715
+image_2018_10_25_19:06:03.png,"up pressed,up released,up pressed,up released",255,263,-1,3.2825790508715
+image_2018_10_25_19:06:04.png,"up pressed,up released,up pressed,up released,up pressed,up released",121,255,-5.98908950290486,3.49272727272727
+image_2018_10_25_19:06:05.png,"up pressed,up released,up pressed,up released,right pressed,right released,right pressed",121,266,-6.36682705469437,3.2825790508715
+image_2018_10_25_19:06:06.png,"right released,right pressed,right released",120,263,-5.99053042509506,3.28261433522185
+image_2018_10_25_19:06:07.png,"right pressed,right released,up pressed,up released,up pressed,up released",106,248,-4.71325301204819,3.7505128272469
+image_2018_10_25_19:06:08.png,"up pressed,up released,up pressed,up released,up pressed,up released",104,247,-4.71084337349398,3.89751713713896
+image_2018_10_25_19:06:09.png,"up pressed,up released,up pressed,up released,up pressed,up released",96,245,-4.17754660690654,4.05975951093289
+image_2018_10_25_19:06:10.png,"up pressed,up released,up pressed,up released",97,240,-4.52357313440846,4.02869941854714
+image_2018_10_25_19:06:11.png,"up pressed,up released",94,240,-4.35456980527162,4.02869941854714
+image_2018_10_25_19:06:12.png,"up pressed,up released,up pressed,up released,up pressed,up released,up pressed,up released",91,235,-4.17651141021917,4.3546220646441
+image_2018_10_25_19:06:14.png,"up pressed,up released",89,233,-4.03175696081795,4.35808990195643
+image_2018_10_25_19:06:15.png,"up pressed,up released,up pressed,up released,right pressed,right released,up pressed,up released",87,226,-4.01449275362319,4.73757126736933
+image_2018_10_25_19:06:17.png,"up pressed,up released",90,225,-4.33853006681515,4.73919085084918
+image_2018_10_25_19:06:18.png,"up pressed,up released",82,220,-3.87578640908891,5.18278428441508
+image_2018_10_25_19:06:19.png,"right pressed,right released,up pressed,up released",205,211,-1,6.36669297665329
+image_2018_10_25_19:06:21.png,"up pressed,up released,up pressed,up released,up pressed,up released,up pressed,up released",59,201,-2.9943647924199,8.25513714058168
+image_2018_10_25_19:06:22.png,"up pressed,up released,up pressed,up released,up pressed,up released",53,194,-2.7510980966325,9.69521266636794
+image_2018_10_25_19:06:23.png,"up pressed,up released,up pressed,up released",47,189,-2.75497855190715,11.7324492003258
+image_2018_10_25_19:06:24.png,"up pressed,up released,up pressed,up released,up pressed",40,187,-2.47990313402976,13.553503566911
+image_2018_10_25_19:06:25.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released",37,187,-2.52911506095986,15.2183019377626
+image_2018_10_25_19:06:26.png,"up pressed,up released,left pressed,left released",172,178,-1,14.9014778325123
+image_2018_10_25_19:06:27.png,"up pressed,up released,up pressed,up released",30,173,-2.36368904928743,20.7314699792961
+image_2018_10_25_19:06:28.png,"left pressed,left released,up pressed,up released,up pressed,up released",34,169,-2.41812354312354,23.9757763975155
+image_2018_10_25_19:06:29.png,"up pressed,up released,up pressed,up released,up pressed,up released",29,162,-29.7351198097677,43.0281573498965
+image_2018_10_25_19:06:30.png,"up pressed,up released,up pressed,up released",151,151,-57.1142857142857,-1
+image_2018_10_25_19:06:31.png,"right pressed,right released,up pressed,up released,up pressed,up released",148,150,-43.0281573498965,-1
+image_2018_10_25_19:06:32.png,"up pressed,up released",10,146,-11.3927192582853,-1
+image_2018_10_25_19:06:33.png,"up pressed,up released,right pressed,right released,up pressed,up released",137,140,-16.6261904761905,-1
+image_2018_10_25_19:06:34.png,"up pressed,up released,up pressed,up released,up pressed,up released",128,132,-10.4772452290601,-1
+image_2018_10_25_19:06:35.png,"up pressed,up released,up pressed,up released,up pressed,up released",123,130,-9.6971283751802,-1
+image_2018_10_25_19:06:36.png,"up pressed,up released,up pressed,up released,up pressed,up released",-18,126,-5.61922292108291,-1
+image_2018_10_25_19:06:37.png,"up pressed,up released,up pressed,up released,up pressed",-16,117,-3.73115610302622,-1
+image_2018_10_25_19:06:38.png,"up released,up pressed,up released,up pressed,up released,right pressed",-36,112,-3.31668381068245,-1
+image_2018_10_25_19:06:39.png,"right released,up pressed,up released,up pressed,up released,up pressed,up released",-28,111,-3.38373552366898,-1
+image_2018_10_25_19:06:40.png,"up pressed,up released,up pressed,up released,up pressed,up released",-32,109,-3.12262490807658,-1
+image_2018_10_25_19:06:41.png,"up pressed,up released,up pressed,up released",103,103,-4.34821428571429,-1
+image_2018_10_25_19:06:42.png,up pressed,-26,109,-3.46146053541615,-1
+image_2018_10_25_19:06:45.png,"up released,up pressed,up released,up pressed,up released",-6,132,-5.17526193408027,-1
+image_2018_10_25_19:06:46.png,"up pressed,up released",-13,129,-3.3703838974502,-1
+image_2018_10_25_19:06:47.png,"up pressed,up released,up pressed,up released,up pressed",-6,133,-3.7813158717694,-1
+image_2018_10_25_19:06:48.png,"up released,up pressed,up released,right pressed,right released",10,139,-5.05391471872728,-1
+image_2018_10_25_19:06:49.png,"up pressed,up released,up pressed,up released",7,17,-1.80719792286956,-1
+image_2018_10_25_19:06:50.png,"left pressed,left released",16,152,-6.57199100068849,-1
+image_2018_10_25_19:06:51.png,"left pressed,left released,left pressed,left released",26,157,-9.27094885074474,-1
+image_2018_10_25_19:06:52.png,"left pressed,left released",32,172,-10.7109853935894,-1
+image_2018_10_25_19:06:53.png,"right pressed,right released,up pressed,up released",62,203,-2.35897435897436,34.8888888888889
+image_2018_10_25_19:06:54.png,"right pressed,right released",85,226,-2.7510980966325,9.69521266636794
+image_2018_10_25_19:06:55.png,"right pressed,right released,right pressed,right released",228,235,-1,7.17808055283198
+image_2018_10_25_19:06:56.png,"right pressed,right released",90,231,-3.08103727714749,7.17701559010568
+image_2018_10_25_19:06:57.png,"up pressed,up released,up pressed,up released",94,234,-3.27397260273973,6.80152518508543
+image_2018_10_25_19:06:58.png,"up pressed,up released,up pressed,up released,up pressed",102,241,-3.61477756286267,5.71216223649922
+image_2018_10_25_19:06:59.png,"up released,up pressed,up released,up pressed,up released",107,246,-3.87481929110051,5.17810968396493
+image_2018_10_25_19:07:00.png,"up pressed,up released,up pressed,up released,right pressed,right released",115,261,-4.18171316618766,4.03257223683912
+image_2018_10_25_19:07:01.png,"up pressed,up released,up pressed,up released,up pressed,up released",120,268,-4.73676805451792,3.62959463667397
+image_2018_10_25_19:07:02.png,"up pressed,up released,right pressed,right released,right pressed,right released",130,276,-5.70926176834077,3.6545339307947
+image_2018_10_25_19:07:03.png,"right pressed,right released,right pressed",131,276,-6.19374746485924,3.52008033966101
+image_2018_10_25_19:07:04.png,"right released,right pressed,right released",112,258,-4.18067582178932,4.03003429499765
+image_2018_10_25_19:07:05.png,"up pressed,up released,up pressed,up released",114,255,-4.71084337349398,4.02929190450025
+image_2018_10_25_19:07:06.png,"up pressed,up released,right pressed,right released,right pressed",112,260,-4.73831365786673,3.7481000303017
+image_2018_10_25_19:07:07.png,"right released,up pressed,up released",113,257,-4.97160267855855,3.74870609090776
+image_2018_10_25_19:07:08.png,"right pressed,right released,up pressed,up released",123,262,-6.30670926517572,3.50056984888229
+image_2018_10_25_19:07:09.png,"up pressed,up released,up pressed,up released",120,260,-5.67435158501441,3.50060513323265
+image_2018_10_25_19:07:10.png,"up pressed,up released,up pressed,up released,up pressed,up released",121,259,-5.98908950290486,3.50056984888229
+image_2018_10_25_19:07:11.png,"up pressed,up released,up pressed,up released",114,260,-5.72254589495982,3.49999907262659
+image_2018_10_25_19:07:12.png,"up pressed,up released,up pressed,up released",120,262,-5.99053042509506,3.2825790508715
+image_2018_10_25_19:07:13.png,"up pressed,up released,up pressed,up released,up pressed,up released,up pressed",113,260,-5.72051690409797,3.50060513323265
+image_2018_10_25_19:07:14.png,"up released,up pressed,up released,up pressed,up released,up pressed",105,255,-4.74161571096416,3.63183231657465
+image_2018_10_25_19:07:15.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released",238,245,-1,4.03244709194286
+image_2018_10_25_19:07:16.png,"up pressed,up released,up pressed,up released,up pressed,up released",103,244,-4.53073364888124,4.0311109659859
+image_2018_10_25_19:07:17.png,up pressed,103,244,-4.52468672015456,4.0311109659859
+image_2018_10_25_19:07:18.png,"up released,up pressed,up released,up pressed,up released,up pressed,up released",225,232,-1,4.73386813714591
+image_2018_10_25_19:07:19.png,"up pressed,up released,left pressed,left released",217,228,-1,5.46163620834173
+image_2018_10_25_19:07:20.png,"up pressed,up released,up pressed,up released",81,224,-3.50546061758436,5.71109727377291
+image_2018_10_25_19:07:21.png,"up pressed,up released,left pressed,left released,up pressed,up released",82,219,-3.5100605661707,6.37325428951193
+image_2018_10_25_19:07:22.png,"up pressed,up released",81,221,-3.27958833619211,6.36778766948784
+image_2018_10_25_19:07:23.png,"up pressed,up released,up pressed,up released,up pressed,up released",83,225,-3.38706689536878,6.06317803380293
+image_2018_10_25_19:07:24.png,"up pressed,up released,up pressed,up released,up pressed,up released",85,228,-3.38249377334994,5.71128734586055
+image_2018_10_25_19:07:25.png,"up pressed,up released,up pressed,up released",97,234,-3.73500967117988,5.18293492612175
+image_2018_10_25_19:07:26.png,"up pressed,up released,up pressed,up released,up pressed",92,240,-3.61386847195358,4.96990028934794
+image_2018_10_25_19:07:27.png,"up released,up pressed,up released,up pressed,up released",98,245,-3.87578640908891,4.55681670020259
+image_2018_10_25_19:07:28.png,"up pressed,up released,up pressed,up released",104,252,-4.36266806355858,4.02929190450025
+image_2018_10_25_19:07:29.png,up pressed,110,252,-4.71084337349398,4.02929190450025
+image_2018_10_25_19:07:30.png,"up released,up pressed,up released,up pressed,up released,right pressed",116,257,-5.16578947368421,3.8961620848846
+image_2018_10_25_19:07:31.png,"right released,right pressed",111,265,-5.18358749726648,3.51984367751362
+image_2018_10_25_19:07:32.png,"right released,up pressed,right pressed,up released,right released",238,244,-1,4.0311109659859
+image_2018_10_25_19:07:33.png,"up pressed,up released,up pressed,up released",102,239,-4.52357313440846,4.17651141021917
+image_2018_10_25_19:07:34.png,"up pressed,up released,up pressed,up released",235,239,-1,4.17539782447306
+image_2018_10_25_19:07:35.png,"up pressed,up released,right pressed,right released",95,237,-4.17651141021917,4.35531219576902
+image_2018_10_25_19:07:36.png,"right pressed,right released,up pressed,up released,up pressed",95,237,-4.01449275362319,4.35531219576902
+image_2018_10_25_19:07:37.png,"up released,up pressed,up released,up pressed,up released",91,233,-3.87940560450672,4.73299324650724
+image_2018_10_25_19:07:38.png,"up pressed,up released,up pressed,up released",87,230,-3.49272727272727,5.1781813617522
+image_2018_10_25_19:07:39.png,"up pressed,up released,up pressed",88,233,-3.61748766737139,4.73299324650724
+image_2018_10_25_19:07:40.png,"up released,up pressed,up released,up pressed,up released",224,233,-1,4.96833283113403
+image_2018_10_25_19:07:41.png,"up pressed,up released,up pressed,up released,up pressed",90,232,-3.87940560450672,5.17826708590699
+image_2018_10_25_19:07:42.png,"up released,up pressed,up released,up pressed,up released,up pressed",226,235,-1,4.96837844789954
+image_2018_10_25_19:07:43.png,"up released,right pressed,right released,right pressed",85,234,-3.51951952840504,6.58120740971406
+image_2018_10_25_19:07:44.png,"right released,right pressed,right released,right pressed",79,227,-3.48700431479818,6.98329578294671
+image_2018_10_25_19:07:45.png,"right released,right pressed,right released",196,202,-1,11.7364250490385
+image_2018_10_25_19:07:46.png,"up pressed,up released",62,195,-2.74963396778917,12.8455665024631
+image_2018_10_25_19:07:47.png,"left pressed,left released,left pressed",60,197,-2.7510980966325,13.5531546342345
+image_2018_10_25_19:07:48.png,"left released,left pressed,left released",61,197,-2.74963396778917,11.734364909138
+image_2018_10_25_19:07:49.png,"left pressed,left released,left pressed,left released",75,218,-2.99513402318913,7.1867196548109
+image_2018_10_25_19:07:50.png,"up pressed,up released,right pressed,right released",227,233,-1,5.70926176834077
+image_2018_10_25_19:07:51.png,"right pressed,right released,right pressed,right released",99,242,-3.61386847195358,5.18190457366867
+image_2018_10_25_19:07:52.png,"right pressed,right released",90,230,-3.75555430077169,5.71109727377291
+image_2018_10_25_19:07:53.png,"up pressed,up released,up pressed,up released",86,228,-3.61839675828048,5.71128734586055
+image_2018_10_25_19:07:54.png,"up pressed,up released",86,223,-3.49454545454545,5.98908950290486
+image_2018_10_25_19:07:55.png,"up pressed,up released,up pressed,up released,up pressed",80,221,-3.38706689536878,5.99053042509506
+image_2018_10_25_19:07:56.png,"up released,up pressed,up released,up pressed,up released",77,219,-3.1803128066698,6.37325428951193
+image_2018_10_25_19:07:57.png,"up pressed,up released,up pressed,up released,up pressed,up released",206,212,-1,7.18552061404352
+image_2018_10_25_19:07:58.png,"up pressed,up released,up pressed,up released,up pressed",65,211,-2.90769230769231,7.76803017173019
+image_2018_10_25_19:07:59.png,"up released,up pressed,up released,up pressed,up released",66,205,-2.90769230769231,8.25393809981429
+image_2018_10_25_19:08:00.png,"up pressed,up released,up pressed,up released",50,192,-2.61418541195261,11.7324492003258
+image_2018_10_25_19:08:01.png,"up pressed,up released,up pressed,up released,up pressed,up released",47,186,-2.61101731548618,14.8983032293377
+image_2018_10_25_19:08:02.png,"up pressed,up released,left pressed,left released,left pressed",43,180,-2.4739652870494,29.7220238095238
+image_2018_10_25_19:08:03.png,"left released,left pressed,left released",43,176,-2.4739652870494,35.0204278812974
+image_2018_10_25_19:08:04.png,"up pressed,up released,up pressed,up released,up pressed,up released",47,184,-2.47727272727273,20.5984126984127
+image_2018_10_25_19:08:05.png,"up pressed,up released,up pressed,up released",47,190,-2.61418541195261,14.8983032293377
+image_2018_10_25_19:08:06.png,"up pressed,up released,up pressed,up released",186,192,-1,14.90021893815
+image_2018_10_25_19:08:07.png,"up pressed,up released,up pressed,up released,up pressed,up released",61,200,-2.60979020979021,11.7324492003258
+image_2018_10_25_19:08:08.png,"right pressed,right released,right pressed,right released,up pressed",68,207,-2.82866313774074,9.69521266636794
+image_2018_10_25_19:08:09.png,"up released,right pressed,right released,up pressed,up released",194,201,-1,11.7324492003258
+image_2018_10_25_19:08:10.png,"up pressed,up released,left pressed",63,199,-2.7510980966325,11.7324492003258
+image_2018_10_25_19:08:11.png,"left released,up pressed,up released,right pressed,right released",71,207,-2.90769230769231,9.69521266636794
+image_2018_10_25_19:08:12.png,"up pressed,up released,right pressed",71,214,-2.9133256561176,9.0534218209535
+image_2018_10_25_19:08:13.png,"right released,up pressed,up released",78,216,-3.08265802269044,8.25513714058168
+image_2018_10_25_19:08:42.png,"right pressed,right released",162,315,-17.8291809068125,2.43176249775116
+image_2018_10_25_19:08:43.png,"right pressed,right released,right pressed",174,323,-34.884126984127,13.8475269881778
+image_2018_10_25_19:08:45.png,"right released,right pressed,right released,left pressed,left released",64,216,-3.55812776413369,4.97474419437843
+image_2018_10_25_19:08:46.png,"left pressed,left released",178,189,-1,7.99244527641853
+image_2018_10_25_19:08:47.png,"left pressed,left released",139,145,-57.1142857142857,57.1142857142857
+image_2018_10_25_19:08:49.png,"left pressed,left released",-42,100,-4.96958318151998,-1
+image_2018_10_25_19:08:50.png,"left pressed,left released",-48,88,-2.57907551165822,-1
+image_2018_10_25_19:08:51.png,"left pressed,left released",-48,87,-3.51152167901349,-1
+image_2018_10_25_19:08:52.png,"left pressed,left released",-47,84,-3.80228142576482,-1
+image_2018_10_25_19:08:53.png,"left pressed,left released,left pressed,left released",89,89,-4.72222222222222,-1
+image_2018_10_25_19:08:54.png,"left pressed,left released",100,103,-5.42004612140246,-1
+image_2018_10_25_19:08:55.png,"left pressed,left released",-1,133,-5.29685320254188,-1
+image_2018_10_25_19:08:56.png,"left pressed,left released",141,144,-10.4772452290601,-1
+image_2018_10_25_19:08:57.png,left pressed,8,146,-6.14247182621509,-1
+image_2018_10_25_19:08:58.png,"left released,right pressed,right released",35,166,-15.9613666014351,-1
+image_2018_10_25_19:08:59.png,"up pressed,up released",78,216,-2.60979020979021,18.3108784893268
+image_2018_10_25_19:09:00.png,"right pressed,right released,right pressed,right released",233,240,-1,8.24543307587645
+image_2018_10_25_19:09:01.png,"right pressed,right released",112,254,-3.61839675828048,5.71353514819763
+image_2018_10_25_19:09:02.png,"right pressed,right released,right pressed",110,253,-3.61748766737139,5.71246677212925
+image_2018_10_25_19:09:03.png,"right released,right pressed,right released",89,233,-3.17750493994361,7.1782103332359
+image_2018_10_25_19:09:04.png,"right pressed,right released",75,221,-2.83016443293164,9.0519850393443
+image_2018_10_25_19:09:05.png,"up pressed,up released,left pressed,left released",65,212,-2.60614525139665,9.6971283751802
+image_2018_10_25_19:09:09.png,"left released,up pressed,up released",215,222,-1,7.1879516969884
+image_2018_10_25_19:09:11.png,"up pressed,up released,left pressed,left released",103,243,-3.61160646898377,5.17914197654567
