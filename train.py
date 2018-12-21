@@ -246,7 +246,8 @@ def startTraining(data, testData=None, dataset='raw', data_in_memory=False):
 
         # #train convNet
         model = trainAndSaveCNN(cnnFp,img_cnn_trainX,img_cnn_trainY,img_cnn_validX,img_cnn_validY,dims=dims)
-        print model.predict(img_cnn_validX[0].reshape(-1,dims[0],dims[1],1))
+        for i in range(20):
+            print model.predict(img_cnn_validX[i].reshape(-1,dims[0],dims[1],1))
         # print img_cnn_validX
         # for img in img_cnn_validX:
         #     print model.predict(img.reshape(-1,120,320,1))

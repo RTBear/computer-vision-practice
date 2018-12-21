@@ -31,6 +31,6 @@ if __name__ == '__main__':
     print data[1]['Image File']
     print '--------'
 
-    train.startTraining(data, data_in_memory=True)
+    train.startTraining(data, data_in_memory=False, dataset='raw')
 #raw images are 320x120 px
 #processed images are 320x240 px

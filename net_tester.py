@@ -11,6 +11,7 @@ from train import massageForCNN, loadImg
 def fit_image_convnet(convnet, image_path, dims=(120,320)):
     img = loadImg(image_path)
     prediction = convnet.predict(img.reshape([-1,dims[0],dims[1],1]))[0]
+    print "unprocessed prediction:",prediction
     if prediction[0] > prediction[1] and prediction[0] > prediction[2] and prediction[0] > prediction[3]:
         return 'up pressed'#np.array([1,0,0,0])
     elif prediction[1] > prediction[0] and prediction[1] > prediction[2] and prediction[1] > prediction[3]:
@@ -65,9 +66,7 @@ def loadImgCNN(fp,dims=(120,320)):
     return model
 
 if __name__ == '__main__':
-    # img_cnn = loadImgCNN('./cnns/b_img_cnn.tfl')
-    # fit_b_cnn_img = fit_image_convnet(img_cnn,'./BEE2Set/bee_train/img19/xda713_2_yb.png')
-    # fit_nb_cnn_img = fit_image_convnet(img_cnn,'./BEE2Set/no_bee_train/img19/695_19_yb.png')
-    # print fit_b_cnn_img
-    # print fit_nb_cnn_img
+    img_cnn = loadImgCNN('./cnns/raw_img_cnn.tfl')
+    fit_b_cnn_img = fit_image_convnet(img_cnn,'./PI_CAR_DATA/rawImages/image_2018_10_25_18:45:49.png')#correct result is: 
+    print fit_b_cnn_img
     
