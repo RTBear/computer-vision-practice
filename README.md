@@ -1,5 +1,3 @@
-README:
-
 # Computer Vision Practice
 
 ## Overview
